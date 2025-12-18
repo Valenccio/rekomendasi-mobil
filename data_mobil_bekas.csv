@@ -1,0 +1,1001 @@
+id_listing,merk,model,segmen,tahun,kilometer,transmisi,bahan_bakar,kapasitas_cc,warna,kota,jumlah_pemilik,riwayat_servis,bekas_banjir,bekas_tabrak,pajak_hidup,budget_user_juta,harga_jual_juta,rekomendasi_score
+MB20110001,Mitsubishi,Pajero Sport,SUV,2011,173944,AT,Diesel,2400,Abu-abu,Denpasar,2,Sebagian,Tidak,Tidak,Tidak,228.7,192.2,63.0
+MB20210002,Daihatsu,Ayla,City Car,2021,86150,MT,Bensin,1157,Hitam,Makassar,1,Sebagian,Tidak,Tidak,Tidak,87.3,99.5,74.5
+MB20190003,Toyota,Fortuner,SUV,2019,77444,AT,Diesel,2744,Silver,Yogyakarta,4,Sebagian,Tidak,Tidak,Ya,445.1,398.9,82.2
+MB20220004,Daihatsu,Terios,SUV,2022,54032,MT,Bensin,1500,Putih,Depok,3,Tidak Ada,Tidak,Ya,Ya,199.7,172.0,73.9
+MB20210005,Mitsubishi,Pajero Sport,SUV,2021,38245,AT,Diesel,2400,Merah,Semarang,1,Tidak Ada,Tidak,Tidak,Ya,645.3,545.1,93.2
+MB20120006,Daihatsu,Ayla,City Car,2012,144119,AT,Bensin,1032,Biru,Depok,3,Tidak Ada,Tidak,Ya,Ya,50.0,35.4,47.7
+MB20220007,Toyota,Fortuner,SUV,2022,31880,AT,Diesel,2589,Kuning,Depok,2,Sebagian,Tidak,Tidak,Ya,574.2,642.2,86.1
+MB20200008,Daihatsu,Terios,SUV,2020,36728,MT,Bensin,1500,Kuning,Denpasar,3,Sebagian,Tidak,Tidak,Ya,210.3,176.3,86.3
+MB20190009,Toyota,Fortuner,SUV,2019,94795,AT,Diesel,2412,Silver,Denpasar,3,Sebagian,Tidak,Ya,Ya,384.5,357.5,67.6
+MB20160010,Daihatsu,Xenia,MPV,2016,116757,AT,Bensin,1433,Biru,Bogor,2,Tidak Ada,Tidak,Tidak,Ya,101.7,89.4,72.8
+MB20200011,Suzuki,Ertiga,MPV,2020,82070,AT,Bensin,1416,Kuning,Semarang,3,Lengkap,Tidak,Tidak,Tidak,177.4,171.3,94.1
+MB20190012,Toyota,Rush,SUV,2019,26460,MT,Bensin,1500,Abu-abu,Makassar,4,Tidak Ada,Tidak,Tidak,Ya,190.0,160.6,82.3
+MB20150013,Toyota,Rush,SUV,2015,95274,MT,Bensin,1500,Coklat,Bandung,1,Lengkap,Tidak,Tidak,Ya,122.7,130.1,74.1
+MB20160014,Daihatsu,Terios,SUV,2016,104764,AT,Bensin,1500,Coklat,Surabaya,2,Sebagian,Tidak,Tidak,Tidak,171.7,132.6,85.9
+MB20220015,Toyota,Fortuner,SUV,2022,69986,AT,Bensin,2475,Hitam,Depok,2,Lengkap,Tidak,Tidak,Ya,477.7,487.5,93.8
+MB20140016,Mitsubishi,Pajero Sport,SUV,2014,114194,AT,Diesel,2400,Kuning,Jakarta,1,Lengkap,Tidak,Tidak,Ya,382.6,340.2,84.9
+MB20120017,Daihatsu,Xenia,MPV,2012,85308,AT,Bensin,1414,Silver,Medan,2,Lengkap,Ya,Tidak,Ya,52.9,61.3,34.0
+MB20140018,Toyota,Innova,MPV,2014,130106,MT,Diesel,2043,Hitam,Depok,3,Lengkap,Tidak,Ya,Ya,166.2,184.2,48.4
+MB20160019,Honda,Jazz,Hatchback,2016,123978,MT,Bensin,1500,Silver,Depok,1,Sebagian,Tidak,Tidak,Ya,105.1,108.6,68.3
+MB20220020,Honda,Jazz,Hatchback,2022,15085,MT,Bensin,1500,Putih,Semarang,5,Lengkap,Tidak,Tidak,Ya,258.9,237.6,99.8
+MB20150021,Honda,HR-V,SUV,2015,211901,AT,Bensin,1699,Kuning,Depok,2,Sebagian,Tidak,Ya,Ya,119.4,121.7,48.2
+MB20150022,Daihatsu,Xenia,MPV,2015,65743,MT,Bensin,1420,Coklat,Semarang,4,Tidak Ada,Tidak,Ya,Ya,61.4,59.0,48.0
+MB20230023,Mitsubishi,Xpander,MPV,2023,12640,MT,Bensin,1500,Kuning,Yogyakarta,4,Lengkap,Tidak,Tidak,Ya,242.4,244.6,97.0
+MB20200024,Daihatsu,Xenia,MPV,2020,118566,AT,Bensin,1326,Coklat,Jakarta,1,Sebagian,Tidak,Tidak,Tidak,126.8,125.6,86.7
+MB20170025,Toyota,Innova,MPV,2017,72997,AT,Bensin,2239,Silver,Bandung,1,Lengkap,Tidak,Tidak,Ya,250.5,250.9,87.4
+MB20180026,Mitsubishi,Xpander,MPV,2018,45234,AT,Bensin,1500,Abu-abu,Tangerang,1,Sebagian,Tidak,Ya,Ya,87.5,131.9,8.0
+MB20150027,Daihatsu,Terios,SUV,2015,79435,MT,Bensin,1500,Putih,Bekasi,2,Sebagian,Tidak,Tidak,Ya,95.4,111.9,55.4
+MB20170028,Toyota,Avanza,MPV,2017,103831,MT,Bensin,1469,Abu-abu,Tangerang,2,Lengkap,Ya,Ya,Ya,87.7,89.3,45.4
+MB20220029,Daihatsu,Ayla,City Car,2022,23375,MT,Bensin,1116,Abu-abu,Semarang,1,Lengkap,Ya,Ya,Ya,90.7,95.5,56.2
+MB20120030,Toyota,Fortuner,SUV,2012,247426,AT,Bensin,2572,Biru,Denpasar,2,Tidak Ada,Tidak,Ya,Tidak,193.7,145.3,36.1
+MB20180031,Daihatsu,Ayla,City Car,2018,46797,MT,Bensin,1190,Silver,Denpasar,2,Lengkap,Tidak,Tidak,Ya,71.7,84.3,68.3
+MB20160032,Daihatsu,Ayla,City Car,2016,137981,AT,Bensin,1064,Coklat,Tangerang,2,Sebagian,Tidak,Tidak,Tidak,52.0,51.6,73.8
+MB20220033,Toyota,Agya,City Car,2022,39622,MT,Bensin,1137,Kuning,Jakarta,2,Lengkap,Tidak,Tidak,Ya,107.5,138.9,63.7
+MB20190034,Toyota,Agya,City Car,2019,74481,AT,Bensin,1101,Putih,Makassar,2,Sebagian,Tidak,Tidak,Tidak,107.6,79.0,85.7
+MB20150035,Daihatsu,Xenia,MPV,2015,253736,AT,Bensin,1454,Silver,Surabaya,3,Lengkap,Tidak,Tidak,Ya,85.7,84.4,64.0
+MB20140036,Toyota,Avanza,MPV,2014,306223,MT,Bensin,1491,Biru,Yogyakarta,1,Lengkap,Tidak,Tidak,Ya,99.8,85.7,65.1
+MB20190037,Daihatsu,Terios,SUV,2019,43373,MT,Bensin,1500,Hitam,Bandung,1,Tidak Ada,Tidak,Tidak,Ya,187.6,169.6,87.2
+MB20110038,Daihatsu,Xenia,MPV,2011,45569,MT,Bensin,1413,Kuning,Bekasi,4,Tidak Ada,Tidak,Ya,Ya,63.8,53.1,53.4
+MB20230039,Mitsubishi,Xpander,MPV,2023,47415,MT,Bensin,1500,Putih,Bandung,3,Sebagian,Ya,Tidak,Ya,175.4,171.4,69.3
+MB20210040,Toyota,Rush,SUV,2021,60746,AT,Bensin,1500,Kuning,Bandung,3,Lengkap,Tidak,Ya,Ya,185.6,202.6,66.3
+MB20240041,Toyota,Fortuner,SUV,2024,19185,AT,Diesel,2775,Putih,Makassar,3,Lengkap,Tidak,Tidak,Tidak,727.3,632.6,104.9
+MB20140042,Mitsubishi,Xpander,MPV,2014,43313,AT,Bensin,1500,Silver,Tangerang,3,Sebagian,Tidak,Tidak,Ya,121.3,107.4,76.6
+MB20220043,Honda,HR-V,SUV,2022,22908,CVT,Bensin,1655,Putih,Makassar,3,Sebagian,Tidak,Ya,Ya,318.1,270.4,81.6
+MB20230044,Daihatsu,Ayla,City Car,2023,23799,AT,Bensin,1133,Biru,Tangerang,1,Lengkap,Tidak,Tidak,Ya,174.4,152.3,107.2
+MB20240045,Daihatsu,Ayla,City Car,2024,14196,AT,Bensin,1049,Abu-abu,Yogyakarta,1,Tidak Ada,Tidak,Tidak,Ya,183.4,160.3,106.2
+MB20130046,Toyota,Agya,City Car,2013,209495,AT,Bensin,1182,Biru,Semarang,3,Lengkap,Ya,Tidak,Ya,50.0,35.3,43.7
+MB20100047,Toyota,Innova,MPV,2010,303375,MT,Diesel,2328,Hitam,Yogyakarta,3,Tidak Ada,Tidak,Tidak,Ya,92.1,115.0,9.9
+MB20220048,Toyota,Avanza,MPV,2022,34416,AT,Bensin,1402,Hitam,Bandung,3,Lengkap,Tidak,Tidak,Ya,189.6,198.8,95.8
+MB20100049,Honda,HR-V,SUV,2010,196313,CVT,Bensin,1613,Biru,Bandung,3,Lengkap,Tidak,Tidak,Ya,112.3,89.8,61.3
+MB20240050,Toyota,Rush,SUV,2024,14820,AT,Bensin,1500,Silver,Makassar,2,Lengkap,Tidak,Tidak,Tidak,344.5,324.2,111.3
+MB20240051,Toyota,Rush,SUV,2024,12887,MT,Bensin,1500,Merah,Yogyakarta,3,Tidak Ada,Tidak,Tidak,Ya,207.2,271.2,61.7
+MB20140052,Toyota,Avanza,MPV,2014,88005,MT,Bensin,1490,Hitam,Medan,2,Tidak Ada,Tidak,Tidak,Ya,81.8,75.5,64.8
+MB20180053,Mitsubishi,Pajero Sport,SUV,2018,101641,AT,Diesel,2400,Biru,Bekasi,2,Tidak Ada,Tidak,Tidak,Ya,485.1,370.9,80.7
+MB20180054,Toyota,Fortuner,SUV,2018,111990,AT,Bensin,2755,Abu-abu,Bogor,3,Lengkap,Tidak,Tidak,Ya,418.9,358.1,84.5
+MB20230055,Toyota,Rush,SUV,2023,27833,AT,Bensin,1500,Silver,Medan,2,Lengkap,Tidak,Tidak,Ya,204.7,284.1,55.3
+MB20220056,Toyota,Agya,City Car,2022,8633,AT,Bensin,1181,Abu-abu,Semarang,2,Sebagian,Tidak,Tidak,Ya,102.6,131.6,63.3
+MB20100057,Toyota,Avanza,MPV,2010,327665,MT,Bensin,1402,Kuning,Bogor,2,Sebagian,Tidak,Tidak,Tidak,61.3,51.4,48.5
+MB20150058,Mitsubishi,Xpander,MPV,2015,189758,MT,Bensin,1500,Biru,Yogyakarta,1,Lengkap,Tidak,Tidak,Ya,133.5,131.5,79.1
+MB20170059,Daihatsu,Xenia,MPV,2017,147664,MT,Bensin,1390,Biru,Makassar,3,Lengkap,Tidak,Tidak,Ya,78.7,102.5,40.3
+MB20120060,Honda,Brio,City Car,2012,215844,AT,Bensin,1200,Biru,Surabaya,2,Lengkap,Tidak,Tidak,Tidak,50.0,43.0,60.4
+MB20140061,Honda,HR-V,SUV,2014,136745,AT,Bensin,1684,Abu-abu,Tangerang,2,Sebagian,Tidak,Tidak,Ya,129.6,141.7,63.2
+MB20100062,Mitsubishi,Xpander,MPV,2010,83572,MT,Bensin,1500,Abu-abu,Depok,2,Lengkap,Tidak,Ya,Ya,72.7,60.0,52.3
+MB20140063,Toyota,Avanza,MPV,2014,113388,AT,Bensin,1338,Hitam,Makassar,2,Sebagian,Ya,Tidak,Ya,57.5,72.9,14.1
+MB20220064,Honda,HR-V,SUV,2022,51939,CVT,Bensin,1686,Abu-abu,Bekasi,5,Lengkap,Tidak,Ya,Ya,215.3,256.9,52.1
+MB20190065,Honda,Brio,City Car,2019,140203,MT,Bensin,1200,Abu-abu,Bandung,2,Sebagian,Tidak,Tidak,Ya,79.2,96.6,53.7
+MB20180066,Toyota,Rush,SUV,2018,70443,AT,Bensin,1500,Silver,Bandung,4,Sebagian,Tidak,Tidak,Ya,176.1,153.5,81.0
+MB20160067,Toyota,Fortuner,SUV,2016,58279,AT,Diesel,2729,Hitam,Jakarta,1,Lengkap,Tidak,Tidak,Tidak,298.6,330.0,73.9
+MB20210068,Mitsubishi,Xpander,MPV,2021,73123,MT,Bensin,1500,Coklat,Bogor,1,Lengkap,Tidak,Tidak,Ya,214.2,220.7,92.7
+MB20210069,Honda,Jazz,Hatchback,2021,61832,MT,Bensin,1500,Coklat,Tangerang,2,Sebagian,Tidak,Tidak,Ya,194.6,199.4,92.8
+MB20190070,Mitsubishi,Xpander,MPV,2019,9180,AT,Bensin,1500,Biru,Semarang,2,Lengkap,Tidak,Tidak,Ya,184.7,185.8,98.9
+MB20200071,Daihatsu,Ayla,City Car,2020,40403,MT,Bensin,1023,Merah,Bandung,1,Lengkap,Tidak,Tidak,Ya,85.7,109.7,63.2
+MB20140072,Daihatsu,Terios,SUV,2014,317506,AT,Bensin,1500,Coklat,Bogor,1,Sebagian,Tidak,Tidak,Ya,71.6,97.0,19.8
+MB20100073,Suzuki,Ertiga,MPV,2010,307235,AT,Bensin,1439,Silver,Denpasar,1,Sebagian,Ya,Tidak,Ya,74.4,58.7,33.6
+MB20160074,Daihatsu,Ayla,City Car,2016,64689,AT,Bensin,1084,Abu-abu,Bogor,2,Lengkap,Ya,Tidak,Ya,52.1,54.5,53.0
+MB20240075,Mitsubishi,Pajero Sport,SUV,2024,18773,AT,Diesel,2400,Coklat,Semarang,1,Tidak Ada,Tidak,Tidak,Ya,758.1,631.5,101.6
+MB20210076,Toyota,Agya,City Car,2021,100941,MT,Bensin,1035,Merah,Bogor,3,Lengkap,Tidak,Tidak,Ya,131.4,103.0,93.4
+MB20120077,Suzuki,Ertiga,MPV,2012,132636,AT,Bensin,1459,Abu-abu,Jakarta,2,Lengkap,Tidak,Tidak,Tidak,56.6,87.8,9.3
+MB20200078,Mitsubishi,Pajero Sport,SUV,2020,38824,AT,Diesel,2400,Coklat,Depok,1,Lengkap,Ya,Tidak,Tidak,304.0,343.4,51.3
+MB20130079,Daihatsu,Terios,SUV,2013,202430,MT,Bensin,1500,Hitam,Medan,1,Sebagian,Ya,Tidak,Ya,76.8,76.0,39.6
+MB20170080,Daihatsu,Terios,SUV,2017,132085,AT,Bensin,1500,Silver,Medan,1,Tidak Ada,Tidak,Ya,Ya,87.5,113.9,22.6
+MB20160081,Mitsubishi,Pajero Sport,SUV,2016,72803,AT,Diesel,2400,Silver,Depok,1,Tidak Ada,Ya,Ya,Ya,290.3,221.1,41.1
+MB20160082,Mitsubishi,Xpander,MPV,2016,172743,MT,Bensin,1500,Abu-abu,Bekasi,1,Tidak Ada,Tidak,Tidak,Tidak,122.3,111.2,70.2
+MB20110083,Honda,HR-V,SUV,2011,307217,AT,Bensin,1502,Hitam,Tangerang,1,Sebagian,Tidak,Tidak,Tidak,88.9,83.3,52.9
+MB20140084,Suzuki,Ertiga,MPV,2014,275215,MT,Bensin,1486,Abu-abu,Semarang,3,Tidak Ada,Ya,Ya,Ya,53.9,61.0,0.0
+MB20120085,Toyota,Fortuner,SUV,2012,248602,AT,Bensin,2527,Abu-abu,Bandung,1,Lengkap,Tidak,Ya,Tidak,158.6,167.0,41.2
+MB20190086,Suzuki,Ertiga,MPV,2019,199622,AT,Bensin,1473,Putih,Bekasi,2,Tidak Ada,Tidak,Tidak,Ya,149.4,137.5,71.9
+MB20200087,Mitsubishi,Pajero Sport,SUV,2020,79587,AT,Diesel,2400,Hitam,Medan,2,Sebagian,Ya,Tidak,Tidak,432.9,315.2,62.6
+MB20200088,Daihatsu,Xenia,MPV,2020,76344,MT,Bensin,1416,Putih,Depok,3,Lengkap,Tidak,Ya,Ya,109.8,119.9,62.9
+MB20180089,Daihatsu,Xenia,MPV,2018,127694,MT,Bensin,1389,Coklat,Bogor,2,Lengkap,Tidak,Tidak,Ya,113.3,107.2,79.0
+MB20180090,Suzuki,Ertiga,MPV,2018,75816,AT,Bensin,1462,Hitam,Bekasi,3,Sebagian,Tidak,Tidak,Tidak,148.4,136.3,82.2
+MB20190091,Daihatsu,Terios,SUV,2019,63140,AT,Bensin,1500,Silver,Jakarta,2,Lengkap,Tidak,Ya,Ya,170.7,174.6,77.5
+MB20120092,Honda,HR-V,SUV,2012,117959,AT,Bensin,1705,Merah,Bogor,1,Lengkap,Tidak,Tidak,Ya,71.1,99.5,20.0
+MB20190093,Toyota,Rush,SUV,2019,81253,AT,Bensin,1500,Merah,Surabaya,4,Sebagian,Tidak,Ya,Tidak,113.7,124.3,48.6
+MB20230094,Toyota,Rush,SUV,2023,18464,AT,Bensin,1500,Silver,Yogyakarta,1,Sebagian,Tidak,Tidak,Ya,271.7,274.6,94.8
+MB20130095,Toyota,Rush,SUV,2013,273872,AT,Bensin,1500,Silver,Jakarta,3,Sebagian,Ya,Ya,Tidak,50.4,52.4,3.9
+MB20240096,Toyota,Rush,SUV,2024,17826,AT,Bensin,1500,Putih,Bandung,2,Sebagian,Tidak,Tidak,Ya,328.4,291.5,103.1
+MB20100097,Toyota,Rush,SUV,2010,164069,MT,Bensin,1500,Coklat,Depok,1,Sebagian,Tidak,Tidak,Ya,68.8,70.4,58.1
+MB20150098,Toyota,Fortuner,SUV,2015,151618,AT,Diesel,2422,Silver,Medan,4,Lengkap,Tidak,Tidak,Ya,260.0,238.4,66.0
+MB20170099,Honda,Jazz,Hatchback,2017,86976,MT,Bensin,1500,Coklat,Depok,2,Tidak Ada,Tidak,Tidak,Ya,88.1,118.5,38.5
+MB20210100,Daihatsu,Xenia,MPV,2021,40347,AT,Bensin,1423,Merah,Denpasar,1,Tidak Ada,Tidak,Tidak,Tidak,184.1,148.6,93.8
+MB20150101,Honda,HR-V,SUV,2015,123190,AT,Bensin,1675,Merah,Bekasi,2,Lengkap,Tidak,Tidak,Ya,178.5,176.8,81.8
+MB20200102,Toyota,Innova,MPV,2020,44503,MT,Bensin,2040,Merah,Medan,1,Lengkap,Tidak,Tidak,Ya,411.1,357.5,104.0
+MB20120103,Toyota,Rush,SUV,2012,327879,AT,Bensin,1500,Abu-abu,Yogyakarta,2,Tidak Ada,Tidak,Tidak,Tidak,61.8,65.3,32.9
+MB20130104,Toyota,Agya,City Car,2013,242998,AT,Bensin,1066,Putih,Bekasi,2,Lengkap,Tidak,Tidak,Tidak,50.0,39.5,61.9
+MB20170105,Toyota,Rush,SUV,2017,78152,MT,Bensin,1500,Kuning,Bandung,1,Lengkap,Ya,Ya,Tidak,122.5,107.6,49.6
+MB20110106,Honda,Brio,City Car,2011,185785,AT,Bensin,1200,Silver,Makassar,1,Lengkap,Tidak,Tidak,Ya,55.3,48.7,67.7
+MB20160107,Toyota,Agya,City Car,2016,148508,MT,Bensin,1137,Abu-abu,Tangerang,4,Lengkap,Tidak,Tidak,Tidak,60.5,58.0,77.6
+MB20150108,Suzuki,Ertiga,MPV,2015,96057,AT,Bensin,1455,Biru,Jakarta,2,Sebagian,Tidak,Tidak,Tidak,81.6,94.6,50.7
+MB20240109,Honda,Brio,City Car,2024,15760,MT,Bensin,1200,Merah,Makassar,2,Tidak Ada,Tidak,Tidak,Ya,146.2,188.8,61.1
+MB20180110,Mitsubishi,Pajero Sport,SUV,2018,134136,AT,Diesel,2400,Hitam,Yogyakarta,1,Sebagian,Tidak,Tidak,Ya,387.6,402.4,81.3
+MB20120111,Toyota,Innova,MPV,2012,421533,MT,Diesel,2069,Putih,Bandung,2,Sebagian,Tidak,Tidak,Ya,128.9,124.0,37.9
+MB20140112,Honda,Brio,City Car,2014,104226,AT,Bensin,1200,Kuning,Makassar,2,Sebagian,Tidak,Tidak,Tidak,50.0,56.5,51.4
+MB20220113,Toyota,Avanza,MPV,2022,15142,AT,Bensin,1339,Putih,Bekasi,1,Sebagian,Tidak,Tidak,Ya,219.0,206.7,105.3
+MB20230114,Honda,HR-V,SUV,2023,30793,CVT,Bensin,1582,Abu-abu,Makassar,3,Sebagian,Tidak,Tidak,Ya,216.1,322.3,36.2
+MB20210115,Honda,Jazz,Hatchback,2021,24302,MT,Bensin,1500,Silver,Makassar,2,Sebagian,Ya,Tidak,Ya,197.5,181.8,75.3
+MB20240116,Toyota,Agya,City Car,2024,12995,AT,Bensin,1088,Hitam,Tangerang,3,Lengkap,Tidak,Tidak,Ya,196.3,167.5,105.7
+MB20200117,Toyota,Innova,MPV,2020,111355,AT,Bensin,2131,Silver,Surabaya,2,Lengkap,Tidak,Tidak,Ya,293.9,308.3,87.7
+MB20140118,Toyota,Fortuner,SUV,2014,129095,AT,Bensin,2782,Silver,Bekasi,4,Sebagian,Tidak,Tidak,Ya,258.8,229.0,67.3
+MB20230119,Honda,Brio,City Car,2023,40394,MT,Bensin,1200,Hitam,Medan,3,Tidak Ada,Tidak,Tidak,Ya,118.7,138.5,64.4
+MB20160120,Toyota,Rush,SUV,2016,173204,AT,Bensin,1500,Coklat,Bekasi,2,Tidak Ada,Tidak,Tidak,Tidak,185.3,119.1,73.0
+MB20210121,Honda,HR-V,SUV,2021,85701,CVT,Bensin,1764,Biru,Bekasi,1,Tidak Ada,Tidak,Tidak,Ya,267.6,252.2,87.5
+MB20230122,Daihatsu,Terios,SUV,2023,24755,AT,Bensin,1500,Silver,Yogyakarta,1,Sebagian,Tidak,Tidak,Ya,294.9,252.6,103.5
+MB20120123,Honda,Jazz,Hatchback,2012,151452,AT,Bensin,1500,Merah,Denpasar,5,Sebagian,Tidak,Tidak,Ya,79.0,68.1,54.0
+MB20160124,Mitsubishi,Xpander,MPV,2016,174375,AT,Bensin,1500,Abu-abu,Denpasar,2,Lengkap,Tidak,Tidak,Ya,187.9,142.6,84.6
+MB20200125,Daihatsu,Terios,SUV,2020,43003,MT,Bensin,1500,Kuning,Depok,1,Sebagian,Tidak,Tidak,Ya,250.9,200.1,96.6
+MB20220126,Toyota,Rush,SUV,2022,42305,MT,Bensin,1500,Putih,Semarang,1,Lengkap,Tidak,Tidak,Ya,265.0,252.2,102.0
+MB20110127,Toyota,Fortuner,SUV,2011,171010,AT,Diesel,2574,Biru,Yogyakarta,3,Sebagian,Tidak,Tidak,Ya,207.5,159.8,57.1
+MB20160128,Toyota,Innova,MPV,2016,176106,MT,Bensin,2158,Hitam,Makassar,3,Lengkap,Tidak,Tidak,Tidak,190.4,180.9,73.1
+MB20240129,Daihatsu,Ayla,City Car,2024,13755,AT,Bensin,1023,Abu-abu,Jakarta,1,Sebagian,Ya,Ya,Ya,137.9,127.3,70.2
+MB20200130,Honda,Brio,City Car,2020,60624,AT,Bensin,1200,Hitam,Bandung,2,Lengkap,Tidak,Tidak,Ya,177.5,135.0,97.4
+MB20240131,Daihatsu,Ayla,City Car,2024,4868,AT,Bensin,1192,Kuning,Depok,2,Lengkap,Ya,Tidak,Tidak,105.3,120.7,63.4
+MB20230132,Honda,HR-V,SUV,2023,71746,CVT,Bensin,1724,Hitam,Semarang,1,Tidak Ada,Tidak,Tidak,Tidak,223.4,265.0,69.5
+MB20180133,Daihatsu,Terios,SUV,2018,42748,MT,Bensin,1500,Silver,Yogyakarta,3,Lengkap,Tidak,Tidak,Ya,182.3,162.0,89.4
+MB20120134,Daihatsu,Terios,SUV,2012,163022,MT,Bensin,1500,Biru,Bekasi,1,Sebagian,Tidak,Tidak,Ya,82.3,80.3,60.8
+MB20140135,Daihatsu,Xenia,MPV,2014,180514,AT,Bensin,1319,Putih,Tangerang,1,Sebagian,Tidak,Tidak,Ya,67.3,78.3,43.7
+MB20170136,Daihatsu,Terios,SUV,2017,57821,MT,Bensin,1500,Coklat,Tangerang,1,Tidak Ada,Tidak,Tidak,Ya,122.4,137.3,65.2
+MB20170137,Toyota,Avanza,MPV,2017,159236,MT,Bensin,1371,Hitam,Semarang,1,Tidak Ada,Tidak,Tidak,Ya,63.3,98.1,11.7
+MB20160138,Toyota,Rush,SUV,2016,170996,MT,Bensin,1500,Abu-abu,Depok,4,Lengkap,Tidak,Tidak,Ya,140.2,121.7,72.7
+MB20110139,Toyota,Agya,City Car,2011,77952,MT,Bensin,1185,Putih,Depok,3,Sebagian,Ya,Ya,Ya,50.0,35.9,30.6
+MB20120140,Toyota,Avanza,MPV,2012,206496,AT,Bensin,1460,Silver,Bogor,2,Sebagian,Tidak,Tidak,Ya,87.3,71.3,68.0
+MB20220141,Honda,Brio,City Car,2022,43410,AT,Bensin,1200,Hitam,Yogyakarta,3,Lengkap,Tidak,Tidak,Ya,172.6,165.5,96.7
+MB20170142,Toyota,Avanza,MPV,2017,130345,MT,Bensin,1319,Silver,Makassar,2,Tidak Ada,Tidak,Tidak,Ya,107.4,91.9,69.4
+MB20120143,Mitsubishi,Pajero Sport,SUV,2012,327372,AT,Diesel,2400,Coklat,Denpasar,4,Sebagian,Ya,Ya,Ya,146.6,115.9,3.9
+MB20180144,Daihatsu,Xenia,MPV,2018,53698,MT,Bensin,1330,Kuning,Yogyakarta,1,Sebagian,Tidak,Tidak,Ya,174.9,124.0,93.1
+MB20220145,Toyota,Fortuner,SUV,2022,37269,AT,Bensin,2741,Coklat,Tangerang,3,Lengkap,Tidak,Tidak,Ya,424.7,554.1,59.9
+MB20180146,Toyota,Innova,MPV,2018,43429,AT,Diesel,2317,Abu-abu,Medan,3,Sebagian,Tidak,Tidak,Ya,173.7,287.9,28.1
+MB20220147,Daihatsu,Xenia,MPV,2022,2000,MT,Bensin,1446,Biru,Surabaya,2,Tidak Ada,Tidak,Tidak,Tidak,163.3,175.9,88.5
+MB20190148,Mitsubishi,Pajero Sport,SUV,2019,112238,AT,Diesel,2400,Merah,Makassar,2,Lengkap,Tidak,Tidak,Ya,506.5,400.6,90.5
+MB20180149,Honda,Brio,City Car,2018,81658,MT,Bensin,1200,Silver,Surabaya,2,Lengkap,Tidak,Ya,Ya,93.5,91.0,77.1
+MB20120150,Toyota,Innova,MPV,2012,52616,AT,Bensin,2230,Silver,Depok,5,Sebagian,Tidak,Tidak,Tidak,159.9,141.6,71.5
+MB20120151,Honda,HR-V,SUV,2012,232051,AT,Bensin,1561,Merah,Tangerang,1,Lengkap,Tidak,Tidak,Ya,119.0,106.9,65.9
+MB20180152,Toyota,Avanza,MPV,2018,96430,MT,Bensin,1300,Hitam,Tangerang,3,Lengkap,Tidak,Tidak,Ya,126.3,128.7,80.6
+MB20220153,Mitsubishi,Pajero Sport,SUV,2022,28172,AT,Diesel,2400,Kuning,Surabaya,1,Lengkap,Tidak,Tidak,Ya,826.3,675.8,105.8
+MB20180154,Toyota,Fortuner,SUV,2018,138391,AT,Bensin,2732,Biru,Bekasi,2,Lengkap,Tidak,Tidak,Ya,388.5,352.4,83.9
+MB20130155,Toyota,Innova,MPV,2013,2000,AT,Diesel,2389,Biru,Medan,2,Lengkap,Tidak,Ya,Ya,145.0,156.1,57.8
+MB20220156,Mitsubishi,Xpander,MPV,2022,41230,MT,Bensin,1500,Coklat,Bekasi,1,Tidak Ada,Tidak,Ya,Ya,240.2,207.3,79.8
+MB20190157,Daihatsu,Ayla,City Car,2019,49548,MT,Bensin,1077,Kuning,Jakarta,1,Tidak Ada,Tidak,Ya,Ya,73.8,76.8,65.0
+MB20170158,Honda,Jazz,Hatchback,2017,116132,AT,Bensin,1500,Putih,Depok,4,Sebagian,Tidak,Tidak,Ya,150.5,116.1,72.2
+MB20110159,Suzuki,Ertiga,MPV,2011,415313,AT,Bensin,1409,Abu-abu,Semarang,3,Sebagian,Tidak,Tidak,Tidak,64.4,53.7,36.3
+MB20220160,Daihatsu,Xenia,MPV,2022,62864,MT,Bensin,1345,Coklat,Semarang,2,Sebagian,Tidak,Tidak,Ya,115.5,152.9,54.0
+MB20170161,Daihatsu,Xenia,MPV,2017,92493,AT,Bensin,1404,Hitam,Bekasi,3,Sebagian,Ya,Ya,Tidak,80.8,78.9,42.5
+MB20190162,Honda,Jazz,Hatchback,2019,202059,MT,Bensin,1500,Merah,Denpasar,3,Sebagian,Tidak,Ya,Ya,124.8,127.5,60.0
+MB20100163,Daihatsu,Ayla,City Car,2010,366651,MT,Bensin,1181,Silver,Denpasar,2,Sebagian,Tidak,Ya,Tidak,50.0,35.6,32.9
+MB20160164,Daihatsu,Xenia,MPV,2016,41750,AT,Bensin,1374,Hitam,Semarang,1,Lengkap,Tidak,Ya,Ya,89.3,87.9,73.2
+MB20170165,Honda,Jazz,Hatchback,2017,185131,MT,Bensin,1500,Coklat,Bogor,2,Lengkap,Tidak,Ya,Ya,119.6,107.8,63.1
+MB20120166,Mitsubishi,Pajero Sport,SUV,2012,182902,AT,Diesel,2400,Silver,Bekasi,2,Sebagian,Tidak,Ya,Ya,187.9,190.5,49.6
+MB20200167,Daihatsu,Xenia,MPV,2020,45680,MT,Bensin,1384,Merah,Surabaya,3,Tidak Ada,Tidak,Tidak,Tidak,158.1,122.7,86.8
+MB20170168,Mitsubishi,Pajero Sport,SUV,2017,113486,AT,Diesel,2400,Abu-abu,Denpasar,2,Sebagian,Tidak,Ya,Ya,381.0,331.7,70.4
+MB20200169,Honda,Brio,City Car,2020,12356,MT,Bensin,1200,Coklat,Bogor,4,Lengkap,Tidak,Tidak,Tidak,90.7,110.4,65.4
+MB20140170,Daihatsu,Terios,SUV,2014,60591,MT,Bensin,1500,Abu-abu,Tangerang,4,Tidak Ada,Tidak,Tidak,Ya,107.0,87.2,64.2
+MB20190171,Honda,HR-V,SUV,2019,87674,CVT,Bensin,1751,Abu-abu,Bekasi,5,Sebagian,Tidak,Tidak,Ya,256.4,197.9,81.3
+MB20190172,Mitsubishi,Pajero Sport,SUV,2019,29662,AT,Diesel,2400,Putih,Jakarta,1,Lengkap,Tidak,Tidak,Ya,443.9,482.7,89.9
+MB20240173,Toyota,Agya,City Car,2024,6500,MT,Bensin,1126,Abu-abu,Surabaya,2,Sebagian,Tidak,Tidak,Ya,217.2,181.7,110.0
+MB20240174,Mitsubishi,Xpander,MPV,2024,11575,AT,Bensin,1500,Kuning,Semarang,1,Lengkap,Tidak,Tidak,Tidak,230.6,273.4,85.6
+MB20160175,Daihatsu,Terios,SUV,2016,61143,AT,Bensin,1500,Biru,Jakarta,1,Lengkap,Tidak,Tidak,Ya,168.6,151.7,93.3
+MB20130176,Honda,HR-V,SUV,2013,54826,AT,Bensin,1674,Merah,Makassar,1,Tidak Ada,Tidak,Ya,Ya,125.7,109.4,58.8
+MB20150177,Suzuki,Ertiga,MPV,2015,58509,AT,Bensin,1477,Silver,Depok,2,Lengkap,Tidak,Tidak,Ya,99.2,108.0,66.2
+MB20110178,Mitsubishi,Xpander,MPV,2011,251563,AT,Bensin,1500,Merah,Denpasar,3,Sebagian,Tidak,Ya,Tidak,63.5,63.9,40.3
+MB20160179,Toyota,Avanza,MPV,2016,154151,MT,Bensin,1393,Silver,Bogor,3,Lengkap,Tidak,Tidak,Ya,171.0,108.6,86.2
+MB20160180,Daihatsu,Terios,SUV,2016,101036,AT,Bensin,1500,Biru,Yogyakarta,1,Lengkap,Tidak,Tidak,Ya,175.8,140.2,87.2
+MB20220181,Mitsubishi,Xpander,MPV,2022,28019,AT,Bensin,1500,Putih,Bandung,1,Tidak Ada,Tidak,Tidak,Ya,216.7,260.9,73.7
+MB20110182,Toyota,Innova,MPV,2011,202955,AT,Diesel,2248,Silver,Depok,4,Sebagian,Tidak,Tidak,Tidak,136.5,117.0,60.3
+MB20240183,Toyota,Innova,MPV,2024,13620,AT,Bensin,2095,Biru,Surabaya,2,Sebagian,Tidak,Tidak,Tidak,400.8,418.0,96.1
+MB20210184,Daihatsu,Terios,SUV,2021,55864,AT,Bensin,1500,Putih,Semarang,2,Tidak Ada,Tidak,Ya,Tidak,123.6,168.6,27.5
+MB20130185,Daihatsu,Terios,SUV,2013,213273,AT,Bensin,1500,Hitam,Bandung,3,Lengkap,Tidak,Ya,Ya,90.0,81.8,49.4
+MB20170186,Toyota,Rush,SUV,2017,48096,AT,Bensin,1500,Coklat,Semarang,2,Lengkap,Tidak,Tidak,Ya,147.6,160.5,76.6
+MB20210187,Honda,Jazz,Hatchback,2021,24455,AT,Bensin,1500,Kuning,Medan,3,Sebagian,Tidak,Tidak,Ya,231.9,199.0,94.1
+MB20220188,Honda,HR-V,SUV,2022,42749,CVT,Bensin,1760,Abu-abu,Jakarta,2,Sebagian,Tidak,Tidak,Ya,202.3,252.5,59.7
+MB20130189,Honda,Jazz,Hatchback,2013,99375,AT,Bensin,1500,Biru,Makassar,3,Lengkap,Ya,Ya,Ya,50.0,57.3,9.1
+MB20210190,Daihatsu,Ayla,City Car,2021,72727,MT,Bensin,1186,Hitam,Bogor,2,Lengkap,Tidak,Tidak,Ya,100.6,106.4,87.0
+MB20170191,Daihatsu,Xenia,MPV,2017,127263,AT,Bensin,1311,Hitam,Bekasi,4,Tidak Ada,Tidak,Tidak,Ya,128.4,92.0,72.4
+MB20150192,Suzuki,Ertiga,MPV,2015,96532,MT,Bensin,1408,Biru,Makassar,3,Lengkap,Tidak,Tidak,Ya,132.9,109.4,79.8
+MB20110193,Toyota,Innova,MPV,2011,132195,AT,Diesel,2067,Merah,Denpasar,1,Lengkap,Tidak,Tidak,Ya,130.0,142.8,52.8
+MB20170194,Toyota,Rush,SUV,2017,103809,MT,Bensin,1500,Biru,Bekasi,2,Lengkap,Tidak,Tidak,Ya,190.2,152.4,91.6
+MB20150195,Daihatsu,Ayla,City Car,2015,373797,MT,Bensin,1111,Silver,Denpasar,2,Sebagian,Tidak,Tidak,Ya,50.0,47.8,53.5
+MB20240196,Toyota,Innova,MPV,2024,20485,AT,Bensin,2089,Biru,Yogyakarta,1,Sebagian,Tidak,Tidak,Ya,422.7,436.3,99.3
+MB20100197,Daihatsu,Terios,SUV,2010,211267,AT,Bensin,1500,Biru,Semarang,3,Sebagian,Tidak,Tidak,Ya,53.8,61.6,34.7
+MB20210198,Toyota,Fortuner,SUV,2021,104679,AT,Bensin,2534,Merah,Denpasar,2,Lengkap,Ya,Tidak,Tidak,265.6,353.4,26.7
+MB20170199,Honda,HR-V,SUV,2017,108050,CVT,Bensin,1676,Biru,Yogyakarta,2,Sebagian,Tidak,Tidak,Ya,166.9,160.0,74.1
+MB20100200,Toyota,Avanza,MPV,2010,164244,AT,Bensin,1339,Biru,Bandung,2,Sebagian,Tidak,Tidak,Ya,50.0,57.5,40.4
+MB20140201,Daihatsu,Ayla,City Car,2014,162840,MT,Bensin,1145,Hitam,Tangerang,5,Tidak Ada,Tidak,Tidak,Ya,50.0,41.7,63.1
+MB20140202,Toyota,Avanza,MPV,2014,154333,MT,Bensin,1488,Merah,Bandung,3,Sebagian,Tidak,Tidak,Ya,89.6,89.3,70.5
+MB20160203,Daihatsu,Ayla,City Car,2016,74339,MT,Bensin,1136,Biru,Medan,1,Sebagian,Tidak,Tidak,Ya,62.7,59.4,82.3
+MB20210204,Daihatsu,Ayla,City Car,2021,61385,MT,Bensin,1197,Coklat,Tangerang,1,Tidak Ada,Tidak,Tidak,Tidak,98.4,98.8,87.8
+MB20180205,Suzuki,Ertiga,MPV,2018,84348,AT,Bensin,1469,Kuning,Denpasar,1,Sebagian,Ya,Tidak,Ya,98.7,115.5,34.4
+MB20100206,Honda,HR-V,SUV,2010,298986,CVT,Bensin,1615,Hitam,Jakarta,1,Tidak Ada,Tidak,Tidak,Ya,69.9,74.4,32.4
+MB20110207,Suzuki,Ertiga,MPV,2011,49108,MT,Bensin,1419,Biru,Surabaya,1,Sebagian,Tidak,Tidak,Ya,85.8,80.3,73.6
+MB20180208,Daihatsu,Ayla,City Car,2018,66208,MT,Bensin,1065,Merah,Jakarta,4,Lengkap,Tidak,Tidak,Tidak,65.9,65.8,82.8
+MB20160209,Honda,HR-V,SUV,2016,81288,AT,Bensin,1760,Silver,Bekasi,1,Sebagian,Tidak,Tidak,Tidak,172.8,168.3,81.2
+MB20130210,Daihatsu,Ayla,City Car,2013,113548,AT,Bensin,1061,Merah,Bekasi,5,Tidak Ada,Ya,Tidak,Ya,50.0,36.4,37.0
+MB20230211,Daihatsu,Xenia,MPV,2023,26168,AT,Bensin,1433,Coklat,Tangerang,3,Lengkap,Tidak,Tidak,Ya,171.5,181.5,92.5
+MB20210212,Mitsubishi,Pajero Sport,SUV,2021,51768,AT,Diesel,2400,Merah,Yogyakarta,1,Sebagian,Tidak,Ya,Ya,436.4,446.5,76.3
+MB20180213,Honda,Brio,City Car,2018,70795,AT,Bensin,1200,Putih,Denpasar,3,Lengkap,Tidak,Tidak,Ya,106.6,99.9,86.2
+MB20240214,Mitsubishi,Xpander,MPV,2024,2152,AT,Bensin,1500,Putih,Medan,1,Tidak Ada,Tidak,Tidak,Ya,220.8,241.4,83.4
+MB20220215,Toyota,Rush,SUV,2022,53637,AT,Bensin,1500,Silver,Yogyakarta,2,Tidak Ada,Tidak,Tidak,Ya,191.8,205.7,79.9
+MB20150216,Daihatsu,Terios,SUV,2015,95322,MT,Bensin,1500,Silver,Semarang,3,Tidak Ada,Tidak,Tidak,Ya,106.7,93.8,64.8
+MB20180217,Daihatsu,Xenia,MPV,2018,81127,AT,Bensin,1357,Putih,Semarang,2,Tidak Ada,Tidak,Tidak,Ya,128.8,108.4,80.8
+MB20210218,Toyota,Innova,MPV,2021,92264,AT,Diesel,2043,Hitam,Medan,2,Lengkap,Tidak,Tidak,Tidak,331.6,314.1,93.4
+MB20220219,Daihatsu,Terios,SUV,2022,29264,MT,Bensin,1500,Biru,Medan,2,Lengkap,Tidak,Tidak,Ya,187.9,233.4,70.5
+MB20170220,Honda,HR-V,SUV,2017,139946,AT,Bensin,1529,Putih,Semarang,3,Lengkap,Ya,Tidak,Ya,132.9,137.2,43.3
+MB20210221,Toyota,Rush,SUV,2021,52234,MT,Bensin,1500,Silver,Surabaya,1,Sebagian,Tidak,Ya,Ya,230.5,184.1,83.0
+MB20120222,Toyota,Rush,SUV,2012,175921,MT,Bensin,1500,Hitam,Surabaya,2,Sebagian,Tidak,Ya,Ya,80.7,77.2,47.7
+MB20100223,Honda,Brio,City Car,2010,205079,MT,Bensin,1200,Putih,Semarang,4,Lengkap,Ya,Tidak,Ya,50.0,31.4,36.5
+MB20140224,Mitsubishi,Xpander,MPV,2014,175023,MT,Bensin,1500,Silver,Makassar,2,Lengkap,Tidak,Tidak,Ya,118.0,97.0,68.9
+MB20170225,Suzuki,Ertiga,MPV,2017,127012,AT,Bensin,1440,Abu-abu,Semarang,3,Lengkap,Ya,Tidak,Ya,96.0,115.7,33.6
+MB20150226,Honda,Brio,City Car,2015,372735,MT,Bensin,1200,Abu-abu,Medan,2,Lengkap,Tidak,Ya,Tidak,50.0,50.3,41.0
+MB20170227,Daihatsu,Ayla,City Car,2017,136775,MT,Bensin,1068,Putih,Surabaya,2,Lengkap,Tidak,Ya,Ya,59.1,59.8,63.5
+MB20240228,Toyota,Rush,SUV,2024,5531,AT,Bensin,1500,Coklat,Bekasi,1,Lengkap,Tidak,Tidak,Ya,262.7,320.9,81.8
+MB20110229,Honda,Jazz,Hatchback,2011,197720,MT,Bensin,1500,Putih,Semarang,2,Sebagian,Ya,Tidak,Ya,60.4,50.8,31.1
+MB20100230,Toyota,Agya,City Car,2010,141849,AT,Bensin,1101,Silver,Depok,5,Lengkap,Tidak,Tidak,Ya,50.0,32.5,63.7
+MB20160231,Honda,Brio,City Car,2016,48219,MT,Bensin,1200,Kuning,Bekasi,1,Lengkap,Tidak,Tidak,Ya,75.7,83.5,75.0
+MB20210232,Daihatsu,Xenia,MPV,2021,73060,MT,Bensin,1451,Putih,Surabaya,2,Sebagian,Tidak,Tidak,Ya,152.2,151.7,89.9
+MB20140233,Daihatsu,Xenia,MPV,2014,170681,AT,Bensin,1309,Biru,Bogor,2,Lengkap,Tidak,Tidak,Ya,120.4,83.2,76.8
+MB20230234,Mitsubishi,Pajero Sport,SUV,2023,27328,AT,Diesel,2400,Coklat,Bandung,2,Lengkap,Tidak,Tidak,Ya,716.8,730.0,99.7
+MB20170235,Toyota,Agya,City Car,2017,75803,MT,Bensin,1194,Putih,Yogyakarta,2,Lengkap,Tidak,Tidak,Ya,100.8,65.6,86.8
+MB20150236,Toyota,Agya,City Car,2015,84194,AT,Bensin,1113,Biru,Semarang,3,Sebagian,Tidak,Tidak,Ya,60.1,51.9,71.0
+MB20130237,Mitsubishi,Xpander,MPV,2013,159769,AT,Bensin,1500,Abu-abu,Makassar,2,Lengkap,Tidak,Tidak,Ya,109.1,94.1,67.1
+MB20140238,Daihatsu,Xenia,MPV,2014,97228,AT,Bensin,1485,Silver,Makassar,2,Sebagian,Ya,Tidak,Ya,76.9,67.7,49.9
+MB20110239,Honda,Brio,City Car,2011,271799,MT,Bensin,1200,Coklat,Surabaya,2,Sebagian,Ya,Tidak,Ya,50.0,35.0,33.0
+MB20220240,Daihatsu,Xenia,MPV,2022,78681,AT,Bensin,1364,Putih,Bandung,1,Sebagian,Tidak,Tidak,Tidak,127.9,147.0,76.2
+MB20180241,Toyota,Agya,City Car,2018,36025,AT,Bensin,1051,Kuning,Surabaya,1,Lengkap,Tidak,Tidak,Ya,75.3,79.0,81.8
+MB20240242,Honda,Jazz,Hatchback,2024,17403,MT,Bensin,1500,Merah,Denpasar,5,Sebagian,Tidak,Tidak,Tidak,235.8,197.8,91.6
+MB20210243,Suzuki,Ertiga,MPV,2021,124385,AT,Bensin,1454,Biru,Yogyakarta,2,Lengkap,Tidak,Ya,Ya,163.5,158.4,75.4
+MB20240244,Suzuki,Ertiga,MPV,2024,8319,MT,Bensin,1408,Biru,Bogor,5,Sebagian,Tidak,Tidak,Ya,278.3,241.1,96.8
+MB20200245,Toyota,Innova,MPV,2020,88371,MT,Diesel,2062,Silver,Medan,1,Lengkap,Tidak,Ya,Ya,384.5,288.0,87.9
+MB20220246,Mitsubishi,Pajero Sport,SUV,2022,19621,AT,Diesel,2400,Kuning,Bekasi,3,Lengkap,Tidak,Tidak,Ya,763.0,600.2,102.1
+MB20120247,Honda,Jazz,Hatchback,2012,145663,AT,Bensin,1500,Merah,Yogyakarta,1,Lengkap,Tidak,Ya,Ya,66.1,63.9,51.4
+MB20200248,Mitsubishi,Xpander,MPV,2020,13907,AT,Bensin,1500,Putih,Bandung,2,Sebagian,Tidak,Tidak,Ya,226.3,206.8,94.1
+MB20140249,Toyota,Agya,City Car,2014,29935,MT,Bensin,1120,Abu-abu,Tangerang,1,Sebagian,Tidak,Tidak,Ya,55.3,54.7,80.6
+MB20220250,Suzuki,Ertiga,MPV,2022,41858,MT,Bensin,1450,Biru,Medan,1,Sebagian,Tidak,Tidak,Ya,241.9,199.3,95.6
+MB20140251,Honda,HR-V,SUV,2014,36476,AT,Bensin,1579,Kuning,Denpasar,1,Sebagian,Tidak,Tidak,Ya,169.4,154.0,81.7
+MB20210252,Daihatsu,Terios,SUV,2021,76896,MT,Bensin,1500,Abu-abu,Denpasar,2,Sebagian,Tidak,Tidak,Tidak,197.7,174.9,91.9
+MB20160253,Daihatsu,Xenia,MPV,2016,144019,AT,Bensin,1440,Coklat,Yogyakarta,2,Tidak Ada,Tidak,Tidak,Ya,79.9,89.8,53.3
+MB20110254,Suzuki,Ertiga,MPV,2011,193847,MT,Bensin,1474,Biru,Semarang,3,Tidak Ada,Tidak,Tidak,Ya,78.2,68.6,53.1
+MB20130255,Suzuki,Ertiga,MPV,2013,176013,AT,Bensin,1492,Abu-abu,Medan,2,Sebagian,Tidak,Tidak,Ya,95.0,83.1,66.5
+MB20200256,Honda,Jazz,Hatchback,2020,45434,AT,Bensin,1500,Coklat,Tangerang,1,Tidak Ada,Tidak,Tidak,Ya,169.3,190.7,72.2
+MB20110257,Toyota,Agya,City Car,2011,208125,AT,Bensin,1047,Coklat,Surabaya,1,Sebagian,Tidak,Ya,Tidak,50.0,36.2,50.1
+MB20150258,Honda,Brio,City Car,2015,56039,MT,Bensin,1200,Abu-abu,Bogor,3,Sebagian,Tidak,Tidak,Ya,68.1,65.3,71.3
+MB20210259,Honda,HR-V,SUV,2021,8694,CVT,Bensin,1640,Hitam,Jakarta,2,Sebagian,Tidak,Tidak,Ya,403.1,302.4,100.0
+MB20230260,Daihatsu,Xenia,MPV,2023,17548,MT,Bensin,1408,Coklat,Jakarta,2,Sebagian,Tidak,Tidak,Ya,271.9,217.3,107.7
+MB20200261,Mitsubishi,Pajero Sport,SUV,2020,43003,AT,Diesel,2400,Merah,Denpasar,2,Lengkap,Tidak,Tidak,Ya,555.9,540.1,99.6
+MB20220262,Daihatsu,Terios,SUV,2022,5520,AT,Bensin,1500,Putih,Bandung,1,Sebagian,Tidak,Ya,Tidak,219.8,207.8,86.1
+MB20110263,Toyota,Rush,SUV,2011,172833,MT,Bensin,1500,Merah,Bandung,3,Sebagian,Tidak,Tidak,Tidak,79.0,75.8,58.2
+MB20150264,Daihatsu,Terios,SUV,2015,70498,MT,Bensin,1500,Putih,Makassar,2,Lengkap,Ya,Tidak,Ya,96.7,99.7,52.1
+MB20240265,Mitsubishi,Xpander,MPV,2024,19684,MT,Bensin,1500,Merah,Tangerang,3,Tidak Ada,Tidak,Tidak,Tidak,162.2,215.3,53.9
+MB20110266,Honda,Brio,City Car,2011,29897,MT,Bensin,1200,Biru,Bogor,2,Sebagian,Tidak,Tidak,Tidak,50.0,41.2,69.8
+MB20140267,Toyota,Fortuner,SUV,2014,33599,AT,Bensin,2518,Coklat,Depok,3,Lengkap,Tidak,Tidak,Ya,232.4,222.0,75.0
+MB20150268,Daihatsu,Ayla,City Car,2015,107564,MT,Bensin,1198,Hitam,Medan,3,Sebagian,Tidak,Tidak,Ya,69.9,56.9,80.1
+MB20130269,Toyota,Innova,MPV,2013,205623,AT,Diesel,2387,Putih,Yogyakarta,2,Tidak Ada,Tidak,Ya,Ya,169.1,141.2,44.9
+MB20230270,Daihatsu,Terios,SUV,2023,20372,MT,Bensin,1500,Merah,Bekasi,5,Sebagian,Tidak,Tidak,Ya,164.0,228.3,43.9
+MB20130271,Mitsubishi,Xpander,MPV,2013,58118,MT,Bensin,1500,Coklat,Medan,1,Sebagian,Tidak,Tidak,Tidak,95.1,90.3,72.0
+MB20110272,Daihatsu,Terios,SUV,2011,144377,AT,Bensin,1500,Abu-abu,Bekasi,5,Tidak Ada,Ya,Ya,Ya,50.0,42.2,7.8
+MB20120273,Daihatsu,Terios,SUV,2012,169710,AT,Bensin,1500,Coklat,Yogyakarta,2,Sebagian,Tidak,Ya,Ya,72.7,78.7,37.4
+MB20150274,Suzuki,Ertiga,MPV,2015,151327,AT,Bensin,1462,Abu-abu,Bekasi,4,Lengkap,Ya,Tidak,Ya,110.5,87.1,48.6
+MB20140275,Daihatsu,Terios,SUV,2014,298020,MT,Bensin,1500,Abu-abu,Medan,3,Sebagian,Ya,Tidak,Tidak,56.9,60.3,16.8
+MB20190276,Honda,HR-V,SUV,2019,141485,CVT,Bensin,1726,Abu-abu,Semarang,4,Sebagian,Ya,Tidak,Ya,110.0,151.5,4.7
+MB20150277,Daihatsu,Xenia,MPV,2015,163196,AT,Bensin,1315,Abu-abu,Jakarta,2,Lengkap,Tidak,Tidak,Tidak,78.9,77.5,68.8
+MB20220278,Honda,Jazz,Hatchback,2022,22001,MT,Bensin,1500,Biru,Bandung,1,Lengkap,Tidak,Ya,Ya,255.1,219.2,90.5
+MB20110279,Toyota,Rush,SUV,2011,254701,AT,Bensin,1500,Coklat,Bandung,3,Lengkap,Tidak,Tidak,Ya,53.7,71.8,9.4
+MB20140280,Toyota,Innova,MPV,2014,36460,AT,Diesel,2355,Kuning,Jakarta,2,Lengkap,Tidak,Tidak,Ya,196.5,185.7,77.5
+MB20230281,Daihatsu,Xenia,MPV,2023,57907,AT,Bensin,1492,Kuning,Tangerang,2,Sebagian,Tidak,Tidak,Ya,124.4,171.7,49.8
+MB20100282,Daihatsu,Xenia,MPV,2010,403912,MT,Bensin,1357,Kuning,Bogor,3,Sebagian,Tidak,Tidak,Tidak,50.0,46.6,38.0
+MB20200283,Daihatsu,Ayla,City Car,2020,76379,AT,Bensin,1144,Biru,Semarang,2,Lengkap,Tidak,Tidak,Ya,131.4,100.8,96.0
+MB20230284,Honda,HR-V,SUV,2023,23371,AT,Bensin,1740,Hitam,Surabaya,4,Tidak Ada,Tidak,Tidak,Ya,392.5,308.4,97.5
+MB20130285,Toyota,Innova,MPV,2013,103807,AT,Bensin,2158,Biru,Makassar,1,Lengkap,Tidak,Tidak,Ya,148.7,170.7,58.5
+MB20150286,Honda,Jazz,Hatchback,2015,92461,MT,Bensin,1500,Coklat,Depok,2,Lengkap,Tidak,Tidak,Ya,142.4,117.0,87.7
+MB20230287,Toyota,Innova,MPV,2023,31373,AT,Diesel,2314,Kuning,Bandung,3,Tidak Ada,Tidak,Tidak,Tidak,371.9,363.9,90.5
+MB20220288,Honda,Jazz,Hatchback,2022,88122,AT,Bensin,1500,Biru,Tangerang,2,Sebagian,Tidak,Tidak,Ya,183.9,210.8,78.3
+MB20150289,Daihatsu,Terios,SUV,2015,196168,AT,Bensin,1500,Coklat,Jakarta,2,Tidak Ada,Ya,Tidak,Ya,101.8,88.1,44.5
+MB20150290,Toyota,Avanza,MPV,2015,67324,AT,Bensin,1304,Merah,Tangerang,3,Tidak Ada,Tidak,Tidak,Tidak,93.6,73.0,69.0
+MB20150291,Toyota,Rush,SUV,2015,106152,MT,Bensin,1500,Abu-abu,Surabaya,2,Lengkap,Tidak,Tidak,Ya,126.1,127.7,81.5
+MB20130292,Toyota,Rush,SUV,2013,153858,MT,Bensin,1500,Hitam,Semarang,3,Lengkap,Tidak,Tidak,Tidak,92.4,91.8,67.4
+MB20210293,Honda,Brio,City Car,2021,95741,MT,Bensin,1200,Abu-abu,Yogyakarta,2,Tidak Ada,Tidak,Ya,Ya,139.3,109.5,72.3
+MB20130294,Daihatsu,Terios,SUV,2013,163668,AT,Bensin,1500,Merah,Surabaya,1,Sebagian,Tidak,Ya,Ya,59.5,72.6,21.1
+MB20210295,Toyota,Innova,MPV,2021,47948,AT,Diesel,2043,Coklat,Medan,4,Tidak Ada,Ya,Tidak,Ya,235.2,262.8,42.8
+MB20110296,Daihatsu,Terios,SUV,2011,149033,MT,Bensin,1500,Biru,Jakarta,1,Lengkap,Tidak,Tidak,Ya,86.3,78.1,75.2
+MB20140297,Suzuki,Ertiga,MPV,2014,189303,AT,Bensin,1480,Kuning,Denpasar,2,Tidak Ada,Ya,Ya,Ya,69.1,63.9,21.7
+MB20130298,Daihatsu,Terios,SUV,2013,90066,AT,Bensin,1500,Merah,Makassar,4,Sebagian,Ya,Tidak,Ya,77.3,80.0,36.7
+MB20150299,Toyota,Innova,MPV,2015,82937,AT,Diesel,2211,Kuning,Denpasar,4,Sebagian,Tidak,Tidak,Tidak,244.6,197.5,74.7
+MB20190300,Mitsubishi,Xpander,MPV,2019,68478,AT,Bensin,1500,Abu-abu,Jakarta,3,Sebagian,Ya,Ya,Ya,129.3,120.8,49.6
+MB20210301,Daihatsu,Ayla,City Car,2021,45074,MT,Bensin,1119,Biru,Bandung,1,Lengkap,Tidak,Tidak,Ya,146.4,121.3,102.0
+MB20230302,Toyota,Rush,SUV,2023,12251,AT,Bensin,1500,Coklat,Surabaya,2,Lengkap,Tidak,Tidak,Ya,216.4,299.7,61.9
+MB20240303,Daihatsu,Xenia,MPV,2024,21965,AT,Bensin,1326,Putih,Semarang,4,Sebagian,Tidak,Tidak,Ya,274.5,180.1,102.4
+MB20130304,Toyota,Rush,SUV,2013,163080,MT,Bensin,1500,Putih,Semarang,2,Sebagian,Tidak,Tidak,Ya,93.0,87.2,61.3
+MB20200305,Toyota,Avanza,MPV,2020,54969,AT,Bensin,1375,Kuning,Bekasi,2,Sebagian,Tidak,Tidak,Ya,143.4,157.8,77.1
+MB20160306,Mitsubishi,Xpander,MPV,2016,204774,AT,Bensin,1500,Putih,Jakarta,2,Lengkap,Tidak,Ya,Ya,139.7,115.7,60.8
+MB20190307,Toyota,Rush,SUV,2019,42338,MT,Bensin,1500,Putih,Medan,1,Tidak Ada,Tidak,Tidak,Ya,180.6,164.2,87.2
+MB20160308,Mitsubishi,Xpander,MPV,2016,82068,MT,Bensin,1500,Merah,Yogyakarta,1,Tidak Ada,Tidak,Tidak,Tidak,135.9,114.2,78.8
+MB20130309,Honda,Brio,City Car,2013,264381,AT,Bensin,1200,Merah,Makassar,1,Tidak Ada,Tidak,Ya,Ya,61.6,44.1,40.1
+MB20190310,Toyota,Agya,City Car,2019,89716,AT,Bensin,1122,Abu-abu,Yogyakarta,2,Sebagian,Tidak,Tidak,Ya,84.6,82.1,79.7
+MB20160311,Toyota,Avanza,MPV,2016,190539,MT,Bensin,1487,Abu-abu,Makassar,2,Tidak Ada,Ya,Ya,Ya,54.6,63.3,5.3
+MB20230312,Mitsubishi,Xpander,MPV,2023,29371,AT,Bensin,1500,Putih,Bandung,2,Lengkap,Tidak,Tidak,Ya,358.6,276.6,106.3
+MB20120313,Daihatsu,Terios,SUV,2012,138661,MT,Bensin,1500,Abu-abu,Bandung,2,Lengkap,Tidak,Ya,Ya,65.8,72.4,36.8
+MB20170314,Toyota,Rush,SUV,2017,43251,MT,Bensin,1500,Coklat,Semarang,1,Lengkap,Tidak,Tidak,Tidak,115.4,124.3,75.7
+MB20150315,Toyota,Rush,SUV,2015,32681,AT,Bensin,1500,Putih,Bekasi,1,Tidak Ada,Tidak,Ya,Ya,120.5,99.5,60.9
+MB20180316,Daihatsu,Terios,SUV,2018,129855,MT,Bensin,1500,Abu-abu,Medan,1,Tidak Ada,Tidak,Tidak,Ya,127.8,141.6,63.3
+MB20210317,Toyota,Avanza,MPV,2021,41846,AT,Bensin,1438,Putih,Denpasar,2,Lengkap,Tidak,Tidak,Ya,213.3,200.4,102.6
+MB20120318,Daihatsu,Terios,SUV,2012,175942,AT,Bensin,1500,Kuning,Denpasar,1,Lengkap,Tidak,Tidak,Ya,116.4,92.7,72.4
+MB20240319,Toyota,Fortuner,SUV,2024,10955,AT,Diesel,2602,Hitam,Tangerang,4,Lengkap,Tidak,Tidak,Ya,900.0,682.4,105.3
+MB20200320,Suzuki,Ertiga,MPV,2020,68565,AT,Bensin,1461,Merah,Denpasar,1,Tidak Ada,Tidak,Tidak,Ya,198.8,182.3,92.2
+MB20130321,Mitsubishi,Pajero Sport,SUV,2013,104624,AT,Diesel,2400,Kuning,Surabaya,2,Sebagian,Tidak,Tidak,Ya,324.0,256.7,73.9
+MB20190322,Toyota,Fortuner,SUV,2019,2711,AT,Diesel,2648,Biru,Denpasar,2,Sebagian,Tidak,Tidak,Tidak,544.2,404.4,96.2
+MB20220323,Mitsubishi,Pajero Sport,SUV,2022,57671,AT,Diesel,2400,Putih,Yogyakarta,1,Lengkap,Tidak,Tidak,Ya,678.4,621.9,106.5
+MB20160324,Honda,Jazz,Hatchback,2016,177091,AT,Bensin,1500,Coklat,Tangerang,2,Lengkap,Tidak,Tidak,Tidak,59.1,88.6,9.6
+MB20200325,Mitsubishi,Xpander,MPV,2020,58866,MT,Bensin,1500,Merah,Yogyakarta,1,Lengkap,Tidak,Tidak,Ya,253.9,181.2,96.0
+MB20100326,Toyota,Agya,City Car,2010,230554,AT,Bensin,1121,Putih,Denpasar,1,Lengkap,Tidak,Tidak,Ya,50.0,37.8,64.4
+MB20140327,Mitsubishi,Pajero Sport,SUV,2014,150022,AT,Diesel,2400,Abu-abu,Bekasi,4,Sebagian,Tidak,Tidak,Tidak,260.2,251.7,64.0
+MB20120328,Daihatsu,Ayla,City Car,2012,187421,MT,Bensin,1098,Hitam,Bekasi,3,Sebagian,Tidak,Tidak,Tidak,50.0,35.9,59.0
+MB20110329,Toyota,Rush,SUV,2011,353896,AT,Bensin,1500,Kuning,Surabaya,2,Sebagian,Tidak,Tidak,Tidak,90.1,64.2,46.1
+MB20110330,Honda,Brio,City Car,2011,151816,AT,Bensin,1200,Coklat,Medan,3,Tidak Ada,Tidak,Tidak,Ya,50.0,38.2,53.8
+MB20230331,Suzuki,Ertiga,MPV,2023,31445,AT,Bensin,1493,Hitam,Surabaya,5,Lengkap,Tidak,Tidak,Ya,204.7,224.2,82.7
+MB20130332,Daihatsu,Terios,SUV,2013,160560,AT,Bensin,1500,Putih,Jakarta,2,Lengkap,Ya,Tidak,Ya,84.2,75.6,46.3
+MB20160333,Toyota,Rush,SUV,2016,150513,MT,Bensin,1500,Abu-abu,Medan,1,Tidak Ada,Tidak,Tidak,Ya,108.8,122.3,55.3
+MB20120334,Mitsubishi,Xpander,MPV,2012,167397,MT,Bensin,1500,Silver,Denpasar,1,Lengkap,Tidak,Ya,Ya,68.3,77.5,32.8
+MB20140335,Daihatsu,Terios,SUV,2014,126874,AT,Bensin,1500,Biru,Denpasar,4,Sebagian,Ya,Tidak,Ya,73.3,73.5,34.8
+MB20180336,Toyota,Rush,SUV,2018,106923,MT,Bensin,1500,Hitam,Bekasi,1,Sebagian,Tidak,Tidak,Ya,131.0,170.8,51.6
+MB20110337,Daihatsu,Terios,SUV,2011,186887,MT,Bensin,1500,Biru,Denpasar,1,Sebagian,Ya,Ya,Ya,53.7,56.2,15.7
+MB20200338,Daihatsu,Xenia,MPV,2020,50311,MT,Bensin,1457,Coklat,Bekasi,2,Sebagian,Tidak,Tidak,Tidak,160.0,125.7,88.8
+MB20230339,Daihatsu,Terios,SUV,2023,30120,AT,Bensin,1500,Abu-abu,Bandung,1,Lengkap,Tidak,Tidak,Ya,249.0,294.3,82.4
+MB20140340,Honda,Jazz,Hatchback,2014,213274,AT,Bensin,1500,Biru,Semarang,3,Lengkap,Tidak,Ya,Ya,89.1,83.0,51.1
+MB20240341,Mitsubishi,Pajero Sport,SUV,2024,6314,AT,Diesel,2400,Hitam,Jakarta,1,Sebagian,Tidak,Ya,Ya,900.0,714.5,93.4
+MB20120342,Toyota,Avanza,MPV,2012,248553,AT,Bensin,1473,Merah,Semarang,1,Sebagian,Tidak,Tidak,Ya,76.6,65.3,56.5
+MB20180343,Toyota,Avanza,MPV,2018,125209,MT,Bensin,1318,Abu-abu,Bekasi,5,Tidak Ada,Tidak,Ya,Ya,118.3,92.6,60.9
+MB20120344,Toyota,Innova,MPV,2012,354866,AT,Bensin,2281,Hitam,Semarang,1,Lengkap,Tidak,Ya,Ya,133.9,119.9,41.1
+MB20180345,Daihatsu,Terios,SUV,2018,153768,MT,Bensin,1500,Biru,Bandung,1,Lengkap,Tidak,Tidak,Ya,169.0,164.7,88.8
+MB20220346,Honda,Brio,City Car,2022,25270,MT,Bensin,1200,Abu-abu,Jakarta,1,Sebagian,Tidak,Tidak,Ya,140.8,178.7,71.1
+MB20170347,Mitsubishi,Xpander,MPV,2017,131463,AT,Bensin,1500,Kuning,Surabaya,1,Sebagian,Tidak,Tidak,Ya,140.8,150.0,76.0
+MB20120348,Toyota,Rush,SUV,2012,78427,MT,Bensin,1500,Biru,Tangerang,2,Lengkap,Tidak,Tidak,Tidak,104.0,96.1,80.1
+MB20240349,Toyota,Innova,MPV,2024,10158,AT,Diesel,2196,Merah,Jakarta,1,Lengkap,Tidak,Tidak,Ya,621.2,539.4,115.6
+MB20120350,Suzuki,Ertiga,MPV,2012,72796,AT,Bensin,1404,Coklat,Bandung,1,Sebagian,Tidak,Tidak,Ya,90.4,87.8,73.2
+MB20240351,Daihatsu,Ayla,City Car,2024,8157,AT,Bensin,1192,Hitam,Medan,4,Sebagian,Tidak,Tidak,Ya,190.2,152.3,100.6
+MB20240352,Daihatsu,Terios,SUV,2024,14748,MT,Bensin,1500,Silver,Yogyakarta,1,Lengkap,Tidak,Tidak,Ya,289.2,304.0,101.5
+MB20110353,Daihatsu,Ayla,City Car,2011,240010,AT,Bensin,1168,Biru,Tangerang,1,Lengkap,Tidak,Tidak,Ya,50.8,41.3,69.7
+MB20190354,Toyota,Rush,SUV,2019,121780,MT,Bensin,1500,Coklat,Makassar,2,Sebagian,Tidak,Ya,Ya,112.6,127.2,46.0
+MB20160355,Suzuki,Ertiga,MPV,2016,72826,MT,Bensin,1425,Biru,Tangerang,1,Tidak Ada,Tidak,Ya,Tidak,120.3,104.8,69.0
+MB20210356,Toyota,Avanza,MPV,2021,89454,MT,Bensin,1423,Abu-abu,Bekasi,2,Lengkap,Ya,Tidak,Ya,134.7,122.8,69.3
+MB20140357,Daihatsu,Xenia,MPV,2014,196024,MT,Bensin,1302,Abu-abu,Makassar,4,Lengkap,Tidak,Tidak,Ya,80.9,72.8,65.6
+MB20110358,Daihatsu,Xenia,MPV,2011,199698,MT,Bensin,1348,Merah,Medan,3,Tidak Ada,Tidak,Tidak,Ya,54.2,54.5,49.6
+MB20220359,Daihatsu,Xenia,MPV,2022,48699,AT,Bensin,1459,Silver,Semarang,2,Lengkap,Tidak,Tidak,Ya,136.4,161.2,76.2
+MB20100360,Toyota,Agya,City Car,2010,65861,AT,Bensin,1066,Coklat,Semarang,2,Lengkap,Tidak,Ya,Ya,50.0,36.4,60.7
+MB20110361,Daihatsu,Terios,SUV,2011,110888,MT,Bensin,1500,Merah,Yogyakarta,2,Sebagian,Tidak,Ya,Ya,73.7,70.9,50.6
+MB20140362,Suzuki,Ertiga,MPV,2014,191610,MT,Bensin,1473,Hitam,Makassar,3,Lengkap,Tidak,Tidak,Ya,89.1,91.8,62.8
+MB20160363,Mitsubishi,Xpander,MPV,2016,132207,AT,Bensin,1500,Kuning,Denpasar,1,Sebagian,Ya,Tidak,Ya,90.0,96.8,37.6
+MB20220364,Honda,HR-V,SUV,2022,22453,CVT,Bensin,1779,Putih,Depok,3,Tidak Ada,Tidak,Tidak,Ya,327.1,297.1,90.4
+MB20170365,Daihatsu,Ayla,City Car,2017,87153,AT,Bensin,1182,Putih,Denpasar,2,Sebagian,Tidak,Ya,Ya,67.2,67.2,69.9
+MB20180366,Daihatsu,Terios,SUV,2018,69495,MT,Bensin,1500,Biru,Surabaya,3,Sebagian,Tidak,Tidak,Ya,154.5,153.2,86.2
+MB20100367,Toyota,Avanza,MPV,2010,262305,AT,Bensin,1322,Silver,Bekasi,1,Sebagian,Tidak,Tidak,Ya,50.0,63.2,26.3
+MB20160368,Daihatsu,Terios,SUV,2016,84607,MT,Bensin,1500,Putih,Tangerang,2,Lengkap,Ya,Tidak,Ya,116.4,102.3,59.4
+MB20230369,Honda,Jazz,Hatchback,2023,25441,AT,Bensin,1500,Putih,Makassar,3,Sebagian,Tidak,Tidak,Ya,178.1,227.2,62.5
+MB20150370,Honda,Brio,City Car,2015,116306,MT,Bensin,1200,Putih,Surabaya,1,Lengkap,Tidak,Tidak,Tidak,84.4,76.1,86.7
+MB20130371,Daihatsu,Xenia,MPV,2013,132397,MT,Bensin,1390,Biru,Jakarta,1,Sebagian,Tidak,Tidak,Ya,57.3,77.5,32.7
+MB20220372,Toyota,Fortuner,SUV,2022,35449,AT,Diesel,2576,Kuning,Bekasi,2,Lengkap,Tidak,Tidak,Ya,413.1,577.4,51.3
+MB20160373,Mitsubishi,Pajero Sport,SUV,2016,180890,AT,Diesel,2400,Abu-abu,Denpasar,3,Sebagian,Tidak,Tidak,Ya,394.7,292.2,72.9
+MB20230374,Daihatsu,Terios,SUV,2023,31496,AT,Bensin,1500,Kuning,Jakarta,3,Lengkap,Tidak,Tidak,Ya,215.0,252.7,78.0
+MB20210375,Toyota,Fortuner,SUV,2021,76961,AT,Bensin,2704,Coklat,Bogor,2,Sebagian,Tidak,Tidak,Tidak,445.5,432.8,90.1
+MB20240376,Daihatsu,Ayla,City Car,2024,20021,MT,Bensin,1144,Merah,Tangerang,3,Lengkap,Tidak,Tidak,Ya,167.3,140.3,100.4
+MB20110377,Toyota,Fortuner,SUV,2011,241831,AT,Bensin,2796,Coklat,Yogyakarta,3,Sebagian,Tidak,Tidak,Ya,190.8,180.3,53.0
+MB20210378,Daihatsu,Terios,SUV,2021,69389,AT,Bensin,1500,Silver,Depok,1,Tidak Ada,Tidak,Tidak,Ya,257.4,209.9,96.3
+MB20170379,Toyota,Fortuner,SUV,2017,49473,AT,Diesel,2594,Putih,Denpasar,1,Lengkap,Tidak,Tidak,Tidak,340.7,311.8,86.1
+MB20100380,Mitsubishi,Xpander,MPV,2010,141180,AT,Bensin,1500,Merah,Surabaya,3,Lengkap,Tidak,Tidak,Ya,61.4,86.6,17.5
+MB20160381,Mitsubishi,Pajero Sport,SUV,2016,73330,AT,Diesel,2400,Putih,Makassar,2,Lengkap,Tidak,Tidak,Ya,316.6,313.5,83.0
+MB20220382,Mitsubishi,Pajero Sport,SUV,2022,56013,AT,Diesel,2400,Hitam,Jakarta,2,Lengkap,Tidak,Tidak,Ya,822.0,639.3,106.9
+MB20210383,Daihatsu,Ayla,City Car,2021,92105,AT,Bensin,1173,Abu-abu,Jakarta,2,Tidak Ada,Tidak,Tidak,Tidak,68.8,82.7,54.1
+MB20230384,Daihatsu,Ayla,City Car,2023,27919,AT,Bensin,1089,Kuning,Makassar,2,Sebagian,Tidak,Tidak,Ya,191.9,154.2,106.8
+MB20100385,Daihatsu,Ayla,City Car,2010,224740,MT,Bensin,1153,Kuning,Semarang,4,Lengkap,Tidak,Ya,Tidak,50.0,33.5,44.1
+MB20170386,Daihatsu,Xenia,MPV,2017,126610,AT,Bensin,1317,Coklat,Bandung,5,Lengkap,Tidak,Tidak,Ya,102.9,97.3,74.4
+MB20170387,Honda,HR-V,SUV,2017,41524,CVT,Bensin,1543,Merah,Jakarta,1,Tidak Ada,Ya,Tidak,Tidak,187.4,140.8,61.1
+MB20180388,Toyota,Fortuner,SUV,2018,151174,AT,Bensin,2678,Kuning,Jakarta,3,Tidak Ada,Tidak,Tidak,Ya,325.6,301.0,71.0
+MB20150389,Mitsubishi,Pajero Sport,SUV,2015,152788,AT,Diesel,2400,Merah,Surabaya,2,Lengkap,Tidak,Tidak,Tidak,203.8,243.5,45.9
+MB20180390,Mitsubishi,Pajero Sport,SUV,2018,51231,AT,Diesel,2400,Abu-abu,Bogor,3,Lengkap,Tidak,Ya,Ya,367.3,311.5,69.5
+MB20200391,Toyota,Agya,City Car,2020,42210,AT,Bensin,1151,Biru,Bekasi,1,Lengkap,Ya,Tidak,Ya,101.6,86.2,69.7
+MB20240392,Daihatsu,Terios,SUV,2024,20716,AT,Bensin,1500,Hitam,Denpasar,2,Lengkap,Tidak,Tidak,Ya,295.4,284.9,105.4
+MB20130393,Daihatsu,Terios,SUV,2013,46597,MT,Bensin,1500,Biru,Tangerang,4,Tidak Ada,Tidak,Ya,Tidak,103.2,72.9,55.2
+MB20220394,Honda,Brio,City Car,2022,32001,MT,Bensin,1200,Putih,Denpasar,3,Lengkap,Tidak,Tidak,Ya,176.8,156.4,94.1
+MB20190395,Daihatsu,Ayla,City Car,2019,112246,MT,Bensin,1176,Silver,Surabaya,2,Sebagian,Ya,Tidak,Ya,92.1,62.0,58.9
+MB20100396,Honda,Brio,City Car,2010,191254,MT,Bensin,1200,Merah,Surabaya,2,Sebagian,Ya,Tidak,Ya,50.0,35.9,36.8
+MB20180397,Toyota,Avanza,MPV,2018,29889,AT,Bensin,1309,Putih,Tangerang,3,Lengkap,Tidak,Tidak,Tidak,108.6,115.9,75.1
+MB20230398,Toyota,Rush,SUV,2023,35602,AT,Bensin,1500,Coklat,Denpasar,5,Lengkap,Tidak,Tidak,Ya,257.9,251.1,99.3
+MB20210399,Toyota,Agya,City Car,2021,32086,MT,Bensin,1113,Biru,Surabaya,4,Lengkap,Tidak,Tidak,Ya,124.4,120.3,92.8
+MB20170400,Mitsubishi,Xpander,MPV,2017,82529,AT,Bensin,1500,Kuning,Tangerang,3,Lengkap,Tidak,Tidak,Ya,179.3,149.0,85.2
+MB20190401,Daihatsu,Ayla,City Car,2019,111009,MT,Bensin,1042,Silver,Yogyakarta,2,Sebagian,Tidak,Tidak,Ya,86.5,82.2,83.4
+MB20210402,Honda,Jazz,Hatchback,2021,54540,MT,Bensin,1500,Putih,Tangerang,2,Tidak Ada,Tidak,Ya,Ya,138.9,163.1,50.4
+MB20140403,Honda,HR-V,SUV,2014,187347,AT,Bensin,1612,Merah,Tangerang,2,Sebagian,Tidak,Ya,Ya,108.9,117.6,40.7
+MB20150404,Daihatsu,Terios,SUV,2015,111451,MT,Bensin,1500,Merah,Bekasi,5,Sebagian,Tidak,Tidak,Ya,111.2,107.5,66.7
+MB20110405,Toyota,Rush,SUV,2011,176705,AT,Bensin,1500,Putih,Bogor,2,Lengkap,Tidak,Tidak,Tidak,62.3,68.5,46.6
+MB20240406,Mitsubishi,Xpander,MPV,2024,14782,AT,Bensin,1500,Kuning,Jakarta,1,Lengkap,Tidak,Ya,Ya,289.7,282.8,98.1
+MB20180407,Toyota,Rush,SUV,2018,137172,MT,Bensin,1500,Merah,Bogor,1,Lengkap,Tidak,Ya,Ya,170.2,143.2,77.8
+MB20190408,Honda,HR-V,SUV,2019,104258,AT,Bensin,1582,Coklat,Semarang,4,Lengkap,Tidak,Ya,Ya,209.9,192.4,68.6
+MB20100409,Toyota,Agya,City Car,2010,246543,AT,Bensin,1144,Merah,Bandung,1,Tidak Ada,Tidak,Tidak,Tidak,50.0,34.4,55.5
+MB20160410,Daihatsu,Ayla,City Car,2016,84886,AT,Bensin,1110,Silver,Semarang,3,Lengkap,Tidak,Tidak,Ya,72.4,59.7,82.9
+MB20200411,Honda,Jazz,Hatchback,2020,80683,AT,Bensin,1500,Abu-abu,Bogor,1,Sebagian,Tidak,Tidak,Ya,181.3,178.1,89.9
+MB20150412,Daihatsu,Ayla,City Car,2015,108145,MT,Bensin,1137,Hitam,Bandung,3,Sebagian,Tidak,Tidak,Ya,61.0,55.2,73.3
+MB20240413,Honda,Jazz,Hatchback,2024,19365,MT,Bensin,1500,Hitam,Bogor,1,Sebagian,Ya,Tidak,Ya,276.7,227.4,86.8
+MB20150414,Daihatsu,Xenia,MPV,2015,64838,AT,Bensin,1435,Biru,Semarang,1,Tidak Ada,Tidak,Tidak,Ya,102.8,99.1,80.5
+MB20200415,Mitsubishi,Xpander,MPV,2020,36523,AT,Bensin,1500,Abu-abu,Makassar,2,Lengkap,Tidak,Tidak,Ya,299.1,217.0,100.1
+MB20180416,Mitsubishi,Pajero Sport,SUV,2018,90101,AT,Diesel,2400,Merah,Makassar,2,Tidak Ada,Tidak,Tidak,Ya,432.8,366.8,79.9
+MB20240417,Toyota,Rush,SUV,2024,7606,AT,Bensin,1500,Silver,Denpasar,4,Lengkap,Tidak,Tidak,Ya,271.4,296.5,89.6
+MB20170418,Honda,Brio,City Car,2017,163480,MT,Bensin,1200,Silver,Denpasar,2,Tidak Ada,Tidak,Ya,Tidak,62.2,65.1,48.2
+MB20170419,Toyota,Innova,MPV,2017,110647,AT,Bensin,2094,Coklat,Denpasar,4,Sebagian,Tidak,Tidak,Ya,230.6,232.7,77.0
+MB20170420,Honda,HR-V,SUV,2017,150601,AT,Bensin,1621,Biru,Jakarta,2,Lengkap,Tidak,Tidak,Ya,228.7,174.9,83.6
+MB20170421,Mitsubishi,Xpander,MPV,2017,145506,MT,Bensin,1500,Putih,Denpasar,1,Tidak Ada,Tidak,Tidak,Ya,146.6,132.9,74.6
+MB20190422,Daihatsu,Xenia,MPV,2019,15752,AT,Bensin,1399,Merah,Bogor,3,Sebagian,Ya,Ya,Ya,93.7,102.2,41.7
+MB20140423,Toyota,Avanza,MPV,2014,143113,MT,Bensin,1422,Abu-abu,Medan,1,Lengkap,Tidak,Tidak,Tidak,86.6,73.5,73.4
+MB20210424,Toyota,Fortuner,SUV,2021,32871,AT,Bensin,2686,Biru,Jakarta,3,Lengkap,Tidak,Tidak,Ya,589.8,512.3,97.2
+MB20170425,Toyota,Fortuner,SUV,2017,65576,AT,Bensin,2452,Hitam,Bogor,2,Lengkap,Tidak,Tidak,Ya,303.7,372.3,63.5
+MB20180426,Honda,Brio,City Car,2018,125827,MT,Bensin,1200,Putih,Bekasi,1,Tidak Ada,Tidak,Tidak,Ya,87.4,89.6,73.5
+MB20120427,Honda,Brio,City Car,2012,125595,AT,Bensin,1200,Hitam,Medan,2,Lengkap,Ya,Tidak,Ya,55.6,40.5,50.3
+MB20230428,Toyota,Avanza,MPV,2023,37440,AT,Bensin,1496,Silver,Depok,2,Lengkap,Tidak,Tidak,Ya,153.2,201.9,63.0
+MB20220429,Toyota,Agya,City Car,2022,14477,MT,Bensin,1091,Abu-abu,Bogor,2,Sebagian,Tidak,Tidak,Ya,217.4,146.3,108.3
+MB20140430,Toyota,Innova,MPV,2014,20817,AT,Diesel,2215,Coklat,Bandung,1,Lengkap,Tidak,Tidak,Tidak,149.7,175.8,59.2
+MB20130431,Daihatsu,Ayla,City Car,2013,221022,MT,Bensin,1110,Hitam,Makassar,1,Lengkap,Tidak,Tidak,Ya,52.8,47.4,74.0
+MB20130432,Daihatsu,Xenia,MPV,2013,200689,AT,Bensin,1490,Merah,Yogyakarta,3,Sebagian,Tidak,Tidak,Ya,91.6,72.0,63.8
+MB20170433,Toyota,Rush,SUV,2017,47770,AT,Bensin,1500,Putih,Bekasi,2,Sebagian,Tidak,Tidak,Ya,169.0,160.2,89.1
+MB20150434,Toyota,Rush,SUV,2015,44042,AT,Bensin,1500,Kuning,Depok,3,Sebagian,Tidak,Tidak,Ya,109.7,121.2,63.9
+MB20170435,Daihatsu,Ayla,City Car,2017,61580,MT,Bensin,1194,Biru,Bogor,2,Tidak Ada,Ya,Tidak,Ya,57.7,52.3,53.8
+MB20210436,Mitsubishi,Xpander,MPV,2021,65469,AT,Bensin,1500,Kuning,Bogor,1,Lengkap,Tidak,Tidak,Ya,222.0,221.1,97.0
+MB20150437,Toyota,Agya,City Car,2015,61232,MT,Bensin,1087,Abu-abu,Makassar,2,Lengkap,Tidak,Tidak,Ya,51.0,51.3,75.9
+MB20190438,Toyota,Agya,City Car,2019,75057,MT,Bensin,1004,Kuning,Bandung,1,Sebagian,Tidak,Tidak,Tidak,69.6,84.4,62.3
+MB20190439,Toyota,Fortuner,SUV,2019,115576,AT,Diesel,2460,Hitam,Depok,4,Sebagian,Tidak,Tidak,Ya,452.1,358.8,81.2
+MB20130440,Toyota,Rush,SUV,2013,201994,MT,Bensin,1500,Silver,Makassar,4,Lengkap,Tidak,Tidak,Ya,90.9,81.5,58.0
+MB20230441,Daihatsu,Xenia,MPV,2023,10796,AT,Bensin,1418,Putih,Jakarta,5,Tidak Ada,Tidak,Tidak,Ya,169.6,175.4,87.6
+MB20100442,Daihatsu,Terios,SUV,2010,183388,MT,Bensin,1500,Silver,Medan,4,Lengkap,Tidak,Ya,Ya,50.0,55.6,27.4
+MB20170443,Toyota,Rush,SUV,2017,101019,MT,Bensin,1500,Putih,Tangerang,2,Lengkap,Tidak,Tidak,Ya,142.8,149.9,76.9
+MB20210444,Toyota,Rush,SUV,2021,80803,MT,Bensin,1500,Kuning,Bekasi,2,Tidak Ada,Tidak,Tidak,Ya,208.1,190.2,86.0
+MB20160445,Honda,Jazz,Hatchback,2016,126791,AT,Bensin,1500,Silver,Tangerang,1,Tidak Ada,Tidak,Tidak,Ya,119.2,115.4,72.7
+MB20100446,Daihatsu,Xenia,MPV,2010,185986,AT,Bensin,1350,Biru,Tangerang,2,Sebagian,Tidak,Tidak,Ya,56.3,58.8,56.3
+MB20150447,Toyota,Agya,City Car,2015,179177,AT,Bensin,1122,Kuning,Bandung,3,Sebagian,Tidak,Tidak,Ya,62.1,58.5,66.8
+MB20120448,Honda,HR-V,SUV,2012,143637,AT,Bensin,1520,Kuning,Surabaya,4,Tidak Ada,Tidak,Tidak,Tidak,111.1,93.4,57.6
+MB20220449,Toyota,Agya,City Car,2022,86782,AT,Bensin,1021,Merah,Bogor,2,Tidak Ada,Tidak,Tidak,Tidak,97.0,103.8,77.5
+MB20210450,Daihatsu,Xenia,MPV,2021,33886,MT,Bensin,1340,Coklat,Denpasar,2,Sebagian,Tidak,Ya,Ya,126.1,137.4,67.2
+MB20110451,Daihatsu,Xenia,MPV,2011,154069,AT,Bensin,1436,Coklat,Bandung,2,Lengkap,Tidak,Tidak,Ya,69.4,56.3,64.1
+MB20230452,Honda,Jazz,Hatchback,2023,30029,MT,Bensin,1500,Hitam,Tangerang,2,Lengkap,Tidak,Tidak,Ya,281.2,258.9,103.3
+MB20120453,Daihatsu,Xenia,MPV,2012,187757,AT,Bensin,1442,Hitam,Makassar,4,Lengkap,Tidak,Tidak,Ya,50.4,68.3,22.3
+MB20110454,Mitsubishi,Xpander,MPV,2011,262321,MT,Bensin,1500,Abu-abu,Denpasar,2,Sebagian,Tidak,Tidak,Tidak,76.9,67.9,50.1
+MB20180455,Daihatsu,Terios,SUV,2018,72168,AT,Bensin,1500,Merah,Semarang,3,Sebagian,Tidak,Tidak,Ya,177.4,155.5,83.3
+MB20160456,Honda,HR-V,SUV,2016,151665,AT,Bensin,1649,Merah,Bogor,5,Sebagian,Ya,Tidak,Tidak,141.5,111.7,49.3
+MB20220457,Honda,Brio,City Car,2022,21649,AT,Bensin,1200,Merah,Makassar,2,Sebagian,Tidak,Tidak,Ya,193.0,172.0,98.3
+MB20230458,Daihatsu,Ayla,City Car,2023,38649,AT,Bensin,1182,Abu-abu,Medan,2,Lengkap,Tidak,Tidak,Ya,130.1,149.6,88.0
+MB20210459,Mitsubishi,Pajero Sport,SUV,2021,46724,AT,Diesel,2400,Merah,Tangerang,2,Sebagian,Ya,Tidak,Ya,391.0,432.4,54.3
+MB20180460,Daihatsu,Xenia,MPV,2018,197087,MT,Bensin,1464,Silver,Bogor,2,Sebagian,Tidak,Ya,Ya,92.9,94.0,56.9
+MB20170461,Toyota,Fortuner,SUV,2017,145196,AT,Diesel,2405,Kuning,Denpasar,1,Sebagian,Tidak,Ya,Tidak,301.9,265.8,60.2
+MB20190462,Mitsubishi,Xpander,MPV,2019,108316,MT,Bensin,1500,Kuning,Tangerang,3,Sebagian,Tidak,Ya,Ya,136.8,121.6,62.4
+MB20140463,Toyota,Avanza,MPV,2014,183707,MT,Bensin,1311,Merah,Bekasi,2,Sebagian,Ya,Tidak,Ya,74.3,68.4,42.2
+MB20240464,Honda,HR-V,SUV,2024,16754,AT,Bensin,1507,Silver,Tangerang,1,Sebagian,Tidak,Tidak,Ya,304.4,353.4,84.1
+MB20150465,Toyota,Fortuner,SUV,2015,147480,AT,Diesel,2780,Abu-abu,Semarang,3,Lengkap,Tidak,Ya,Ya,183.0,201.6,40.0
+MB20170466,Honda,Brio,City Car,2017,78464,AT,Bensin,1200,Merah,Denpasar,1,Sebagian,Tidak,Tidak,Ya,114.7,95.1,86.5
+MB20140467,Toyota,Fortuner,SUV,2014,95780,AT,Bensin,2712,Silver,Yogyakarta,1,Sebagian,Tidak,Tidak,Ya,323.8,234.3,75.7
+MB20180468,Honda,HR-V,SUV,2018,110541,CVT,Bensin,1719,Hitam,Bekasi,2,Sebagian,Tidak,Tidak,Ya,189.5,158.8,78.5
+MB20120469,Daihatsu,Ayla,City Car,2012,255824,AT,Bensin,1100,Kuning,Bogor,2,Tidak Ada,Tidak,Tidak,Ya,50.0,34.0,56.8
+MB20140470,Daihatsu,Ayla,City Car,2014,157941,MT,Bensin,1088,Coklat,Bandung,3,Lengkap,Tidak,Tidak,Ya,50.2,47.8,70.1
+MB20210471,Daihatsu,Xenia,MPV,2021,98356,AT,Bensin,1452,Hitam,Tangerang,2,Sebagian,Tidak,Tidak,Ya,152.5,144.2,88.9
+MB20120472,Toyota,Rush,SUV,2012,192834,AT,Bensin,1500,Hitam,Surabaya,2,Sebagian,Tidak,Ya,Ya,55.2,70.7,6.8
+MB20180473,Mitsubishi,Xpander,MPV,2018,60739,MT,Bensin,1500,Putih,Surabaya,2,Lengkap,Tidak,Ya,Tidak,123.1,147.4,49.6
+MB20120474,Mitsubishi,Pajero Sport,SUV,2012,354976,AT,Diesel,2400,Coklat,Medan,1,Tidak Ada,Ya,Ya,Ya,89.1,130.5,0.0
+MB20230475,Toyota,Innova,MPV,2023,22710,AT,Bensin,2183,Merah,Makassar,2,Lengkap,Tidak,Tidak,Ya,268.3,416.5,42.3
+MB20190476,Suzuki,Ertiga,MPV,2019,89718,AT,Bensin,1465,Coklat,Medan,2,Sebagian,Tidak,Tidak,Ya,141.5,154.7,72.9
+MB20200477,Daihatsu,Xenia,MPV,2020,52911,AT,Bensin,1384,Putih,Medan,2,Sebagian,Tidak,Tidak,Tidak,123.7,125.8,82.2
+MB20150478,Daihatsu,Terios,SUV,2015,80343,MT,Bensin,1500,Abu-abu,Medan,2,Sebagian,Ya,Tidak,Ya,123.3,90.1,56.5
+MB20190479,Daihatsu,Terios,SUV,2019,24054,MT,Bensin,1500,Kuning,Depok,2,Lengkap,Tidak,Tidak,Ya,242.6,173.3,99.1
+MB20190480,Honda,HR-V,SUV,2019,72290,AT,Bensin,1584,Abu-abu,Bogor,1,Lengkap,Ya,Tidak,Ya,217.7,187.7,69.8
+MB20130481,Honda,HR-V,SUV,2013,260275,AT,Bensin,1799,Putih,Depok,2,Tidak Ada,Tidak,Tidak,Ya,85.2,103.6,26.4
+MB20100482,Toyota,Fortuner,SUV,2010,138376,AT,Diesel,2452,Abu-abu,Bogor,1,Sebagian,Ya,Tidak,Ya,106.8,143.5,0.0
+MB20180483,Mitsubishi,Xpander,MPV,2018,118829,MT,Bensin,1500,Merah,Denpasar,1,Lengkap,Tidak,Tidak,Tidak,175.1,158.3,88.0
+MB20110484,Honda,Jazz,Hatchback,2011,319497,AT,Bensin,1500,Kuning,Yogyakarta,3,Sebagian,Tidak,Tidak,Tidak,56.8,55.9,46.0
+MB20220485,Toyota,Fortuner,SUV,2022,17397,AT,Diesel,2593,Hitam,Yogyakarta,3,Sebagian,Tidak,Tidak,Ya,735.5,611.6,97.4
+MB20120486,Toyota,Rush,SUV,2012,114698,AT,Bensin,1500,Kuning,Denpasar,2,Lengkap,Tidak,Tidak,Ya,109.6,97.3,78.0
+MB20100487,Toyota,Agya,City Car,2010,294714,MT,Bensin,1047,Abu-abu,Makassar,4,Sebagian,Tidak,Tidak,Ya,50.0,34.2,49.2
+MB20100488,Toyota,Agya,City Car,2010,285424,MT,Bensin,1113,Abu-abu,Yogyakarta,3,Lengkap,Tidak,Tidak,Ya,50.0,35.4,56.0
+MB20190489,Honda,HR-V,SUV,2019,80287,AT,Bensin,1776,Merah,Semarang,5,Sebagian,Tidak,Tidak,Ya,239.5,212.4,84.6
+MB20110490,Toyota,Innova,MPV,2011,154593,MT,Bensin,2029,Silver,Semarang,3,Lengkap,Tidak,Tidak,Ya,96.2,119.8,28.4
+MB20190491,Toyota,Avanza,MPV,2019,39029,AT,Bensin,1368,Putih,Surabaya,2,Lengkap,Tidak,Ya,Ya,162.5,136.2,85.4
+MB20230492,Honda,Brio,City Car,2023,34943,MT,Bensin,1200,Biru,Bekasi,2,Lengkap,Tidak,Tidak,Ya,208.9,180.2,109.1
+MB20180493,Daihatsu,Terios,SUV,2018,134784,MT,Bensin,1500,Hitam,Tangerang,2,Sebagian,Tidak,Tidak,Tidak,135.8,136.1,78.1
+MB20140494,Toyota,Avanza,MPV,2014,119506,MT,Bensin,1401,Hitam,Bogor,1,Tidak Ada,Tidak,Tidak,Ya,79.7,86.3,58.3
+MB20110495,Honda,Jazz,Hatchback,2011,363983,MT,Bensin,1500,Biru,Bekasi,1,Sebagian,Tidak,Ya,Ya,53.3,48.3,29.0
+MB20180496,Toyota,Rush,SUV,2018,160778,MT,Bensin,1500,Merah,Jakarta,2,Sebagian,Tidak,Tidak,Tidak,82.8,146.6,21.2
+MB20240497,Mitsubishi,Pajero Sport,SUV,2024,19878,AT,Diesel,2400,Silver,Jakarta,1,Sebagian,Tidak,Tidak,Ya,610.0,657.3,88.9
+MB20140498,Mitsubishi,Pajero Sport,SUV,2014,275594,AT,Diesel,2400,Kuning,Yogyakarta,1,Sebagian,Tidak,Tidak,Ya,231.0,251.7,50.0
+MB20200499,Toyota,Innova,MPV,2020,76932,AT,Diesel,2398,Abu-abu,Bekasi,1,Lengkap,Tidak,Tidak,Tidak,274.2,253.4,90.4
+MB20100500,Mitsubishi,Xpander,MPV,2010,287318,MT,Bensin,1500,Kuning,Makassar,4,Sebagian,Tidak,Tidak,Ya,50.0,62.5,13.5
+MB20160501,Toyota,Fortuner,SUV,2016,134437,AT,Bensin,2691,Silver,Bandung,2,Sebagian,Tidak,Tidak,Ya,354.2,268.3,73.8
+MB20210502,Daihatsu,Xenia,MPV,2021,63118,MT,Bensin,1368,Merah,Denpasar,1,Sebagian,Tidak,Tidak,Tidak,148.1,148.5,92.8
+MB20110503,Daihatsu,Terios,SUV,2011,273692,MT,Bensin,1500,Hitam,Jakarta,4,Tidak Ada,Tidak,Tidak,Ya,70.3,64.8,43.4
+MB20150504,Mitsubishi,Xpander,MPV,2015,142030,AT,Bensin,1500,Merah,Depok,2,Sebagian,Tidak,Tidak,Tidak,156.0,115.7,81.3
+MB20190505,Daihatsu,Xenia,MPV,2019,117228,MT,Bensin,1347,Merah,Semarang,2,Sebagian,Tidak,Ya,Ya,115.3,95.9,65.3
+MB20100506,Mitsubishi,Pajero Sport,SUV,2010,189234,AT,Diesel,2400,Kuning,Jakarta,1,Sebagian,Tidak,Tidak,Ya,133.8,159.7,30.6
+MB20130507,Toyota,Agya,City Car,2013,2000,AT,Bensin,1049,Silver,Semarang,3,Lengkap,Ya,Tidak,Ya,50.0,38.0,59.2
+MB20170508,Mitsubishi,Pajero Sport,SUV,2017,80630,AT,Diesel,2400,Merah,Bogor,1,Sebagian,Tidak,Tidak,Ya,390.6,402.9,84.2
+MB20130509,Mitsubishi,Pajero Sport,SUV,2013,114183,AT,Diesel,2400,Merah,Bekasi,1,Sebagian,Tidak,Ya,Ya,188.6,203.9,41.7
+MB20150510,Daihatsu,Xenia,MPV,2015,255512,MT,Bensin,1431,Abu-abu,Bandung,3,Sebagian,Ya,Tidak,Ya,68.2,62.0,36.4
+MB20240511,Daihatsu,Xenia,MPV,2024,19870,AT,Bensin,1487,Coklat,Bandung,1,Sebagian,Tidak,Ya,Ya,210.1,156.7,88.3
+MB20240512,Toyota,Avanza,MPV,2024,9004,AT,Bensin,1412,Kuning,Jakarta,1,Tidak Ada,Tidak,Tidak,Ya,195.7,239.0,77.5
+MB20210513,Honda,Brio,City Car,2021,29809,MT,Bensin,1200,Hitam,Bandung,2,Lengkap,Tidak,Tidak,Ya,179.2,163.2,104.1
+MB20130514,Mitsubishi,Xpander,MPV,2013,182683,AT,Bensin,1500,Putih,Semarang,2,Lengkap,Tidak,Tidak,Ya,92.0,83.8,64.3
+MB20200515,Mitsubishi,Xpander,MPV,2020,101523,AT,Bensin,1500,Kuning,Denpasar,2,Sebagian,Tidak,Tidak,Ya,203.4,177.0,88.0
+MB20220516,Suzuki,Ertiga,MPV,2022,48964,AT,Bensin,1479,Abu-abu,Depok,1,Lengkap,Tidak,Tidak,Ya,295.3,219.6,105.6
+MB20120517,Daihatsu,Terios,SUV,2012,179817,AT,Bensin,1500,Abu-abu,Bogor,1,Sebagian,Tidak,Tidak,Ya,101.1,80.7,63.1
+MB20140518,Honda,HR-V,SUV,2014,119681,CVT,Bensin,1582,Silver,Makassar,2,Lengkap,Tidak,Tidak,Ya,136.0,149.5,67.8
+MB20150519,Daihatsu,Xenia,MPV,2015,169646,MT,Bensin,1326,Biru,Bogor,1,Lengkap,Tidak,Tidak,Tidak,101.1,85.3,78.6
+MB20240520,Toyota,Agya,City Car,2024,3801,AT,Bensin,1183,Abu-abu,Denpasar,2,Lengkap,Ya,Tidak,Ya,114.9,145.0,49.6
+MB20110521,Suzuki,Ertiga,MPV,2011,171435,AT,Bensin,1452,Putih,Tangerang,2,Tidak Ada,Tidak,Tidak,Ya,86.2,77.2,57.1
+MB20200522,Honda,Jazz,Hatchback,2020,68841,MT,Bensin,1500,Hitam,Tangerang,1,Tidak Ada,Ya,Tidak,Ya,158.8,146.2,62.1
+MB20190523,Suzuki,Ertiga,MPV,2019,112856,AT,Bensin,1500,Abu-abu,Depok,2,Sebagian,Tidak,Tidak,Ya,123.1,151.1,55.0
+MB20240524,Daihatsu,Xenia,MPV,2024,12403,AT,Bensin,1401,Coklat,Tangerang,2,Sebagian,Tidak,Tidak,Ya,240.6,226.5,107.5
+MB20120525,Honda,Brio,City Car,2012,113883,AT,Bensin,1200,Merah,Depok,1,Tidak Ada,Tidak,Ya,Tidak,50.0,38.1,49.0
+MB20200526,Honda,Jazz,Hatchback,2020,58806,AT,Bensin,1500,Silver,Yogyakarta,4,Sebagian,Tidak,Tidak,Ya,209.6,182.6,91.4
+MB20180527,Daihatsu,Terios,SUV,2018,105018,MT,Bensin,1500,Merah,Jakarta,1,Sebagian,Tidak,Tidak,Ya,168.9,162.7,88.9
+MB20230528,Daihatsu,Xenia,MPV,2023,24754,MT,Bensin,1473,Merah,Bandung,2,Lengkap,Tidak,Tidak,Ya,258.5,186.2,112.7
+MB20190529,Toyota,Innova,MPV,2019,50697,AT,Diesel,2394,Biru,Bandung,1,Lengkap,Tidak,Tidak,Tidak,311.2,329.5,86.7
+MB20190530,Toyota,Rush,SUV,2019,78929,AT,Bensin,1500,Putih,Bandung,4,Sebagian,Tidak,Tidak,Ya,120.5,141.1,54.5
+MB20190531,Toyota,Rush,SUV,2019,33624,AT,Bensin,1500,Abu-abu,Medan,1,Tidak Ada,Ya,Tidak,Ya,173.1,154.2,63.3
+MB20130532,Honda,HR-V,SUV,2013,55422,CVT,Bensin,1711,Hitam,Bandung,1,Sebagian,Tidak,Ya,Ya,104.6,105.4,55.2
+MB20120533,Toyota,Avanza,MPV,2012,109623,AT,Bensin,1333,Silver,Bogor,2,Sebagian,Tidak,Tidak,Tidak,69.7,60.2,64.9
+MB20140534,Honda,Jazz,Hatchback,2014,215934,MT,Bensin,1500,Abu-abu,Denpasar,2,Lengkap,Tidak,Ya,Ya,59.5,73.8,18.2
+MB20190535,Toyota,Innova,MPV,2019,49836,MT,Bensin,2238,Kuning,Jakarta,2,Tidak Ada,Ya,Tidak,Ya,199.8,209.7,51.4
+MB20130536,Mitsubishi,Xpander,MPV,2013,124411,MT,Bensin,1500,Silver,Bandung,3,Lengkap,Tidak,Tidak,Ya,84.2,98.9,53.7
+MB20210537,Daihatsu,Terios,SUV,2021,29898,AT,Bensin,1500,Coklat,Jakarta,2,Lengkap,Ya,Ya,Tidak,177.0,160.1,59.2
+MB20180538,Toyota,Agya,City Car,2018,43037,AT,Bensin,1184,Putih,Bandung,3,Sebagian,Ya,Tidak,Ya,60.8,63.5,52.8
+MB20110539,Toyota,Rush,SUV,2011,179303,MT,Bensin,1500,Abu-abu,Yogyakarta,3,Sebagian,Ya,Tidak,Tidak,58.9,59.5,30.6
+MB20100540,Toyota,Rush,SUV,2010,276685,AT,Bensin,1500,Abu-abu,Bogor,1,Tidak Ada,Tidak,Tidak,Ya,88.9,75.8,54.8
+MB20170541,Suzuki,Ertiga,MPV,2017,198828,AT,Bensin,1456,Hitam,Medan,1,Lengkap,Tidak,Tidak,Ya,106.3,121.0,55.9
+MB20200542,Mitsubishi,Xpander,MPV,2020,54054,MT,Bensin,1500,Hitam,Jakarta,3,Tidak Ada,Tidak,Tidak,Ya,207.3,186.1,83.7
+MB20120543,Mitsubishi,Pajero Sport,SUV,2012,234071,AT,Diesel,2400,Silver,Jakarta,2,Sebagian,Tidak,Tidak,Tidak,131.4,196.9,0.0
+MB20230544,Toyota,Agya,City Car,2023,15945,MT,Bensin,1144,Merah,Medan,2,Sebagian,Tidak,Tidak,Ya,133.5,143.1,90.2
+MB20170545,Toyota,Fortuner,SUV,2017,60501,AT,Diesel,2714,Silver,Depok,1,Sebagian,Tidak,Tidak,Ya,190.4,341.9,19.6
+MB20100546,Daihatsu,Ayla,City Car,2010,181749,MT,Bensin,1111,Merah,Yogyakarta,4,Lengkap,Tidak,Tidak,Ya,50.0,35.6,56.7
+MB20180547,Mitsubishi,Xpander,MPV,2018,108517,AT,Bensin,1500,Silver,Depok,4,Lengkap,Tidak,Tidak,Ya,176.9,148.6,82.6
+MB20170548,Honda,HR-V,SUV,2017,75900,CVT,Bensin,1622,Kuning,Tangerang,2,Sebagian,Tidak,Ya,Ya,155.6,138.1,63.1
+MB20170549,Daihatsu,Ayla,City Car,2017,154919,MT,Bensin,1102,Merah,Yogyakarta,1,Sebagian,Tidak,Tidak,Ya,59.3,60.8,69.0
+MB20240550,Toyota,Fortuner,SUV,2024,6975,AT,Bensin,2743,Kuning,Surabaya,2,Sebagian,Tidak,Ya,Ya,616.8,630.7,84.0
+MB20130551,Daihatsu,Terios,SUV,2013,100324,AT,Bensin,1500,Putih,Jakarta,3,Lengkap,Ya,Tidak,Tidak,74.0,71.1,42.4
+MB20160552,Toyota,Agya,City Car,2016,91262,MT,Bensin,1065,Putih,Bandung,2,Lengkap,Tidak,Ya,Tidak,50.0,49.9,61.4
+MB20170553,Mitsubishi,Xpander,MPV,2017,205237,MT,Bensin,1500,Hitam,Semarang,4,Tidak Ada,Tidak,Ya,Ya,99.4,99.3,45.5
+MB20150554,Honda,Brio,City Car,2015,127580,AT,Bensin,1200,Kuning,Bandung,1,Sebagian,Ya,Tidak,Ya,50.0,60.9,23.6
+MB20210555,Daihatsu,Terios,SUV,2021,64454,AT,Bensin,1500,Kuning,Bogor,4,Sebagian,Tidak,Tidak,Ya,194.6,184.1,81.6
+MB20190556,Toyota,Agya,City Car,2019,111104,AT,Bensin,1041,Silver,Depok,1,Sebagian,Tidak,Tidak,Ya,83.9,78.6,81.2
+MB20180557,Daihatsu,Ayla,City Car,2018,171721,MT,Bensin,1197,Merah,Depok,1,Lengkap,Tidak,Tidak,Ya,88.2,79.8,83.8
+MB20100558,Mitsubishi,Pajero Sport,SUV,2010,126779,AT,Diesel,2400,Merah,Tangerang,2,Lengkap,Tidak,Ya,Ya,141.5,158.6,35.9
+MB20160559,Honda,Jazz,Hatchback,2016,155768,AT,Bensin,1500,Putih,Tangerang,1,Sebagian,Tidak,Tidak,Ya,122.7,105.8,72.5
+MB20170560,Mitsubishi,Pajero Sport,SUV,2017,97268,AT,Diesel,2400,Biru,Tangerang,2,Sebagian,Tidak,Tidak,Tidak,276.2,299.4,64.0
+MB20110561,Toyota,Avanza,MPV,2011,103222,MT,Bensin,1361,Silver,Denpasar,3,Tidak Ada,Tidak,Tidak,Tidak,53.8,51.1,53.9
+MB20180562,Toyota,Avanza,MPV,2018,48443,AT,Bensin,1476,Silver,Bogor,2,Tidak Ada,Tidak,Tidak,Ya,132.5,130.3,80.6
+MB20220563,Toyota,Avanza,MPV,2022,49848,MT,Bensin,1374,Biru,Bekasi,5,Lengkap,Tidak,Tidak,Ya,183.1,176.9,91.1
+MB20240564,Toyota,Agya,City Car,2024,23912,AT,Bensin,1152,Putih,Denpasar,1,Lengkap,Tidak,Tidak,Ya,159.4,139.9,104.3
+MB20140565,Daihatsu,Xenia,MPV,2014,64770,AT,Bensin,1360,Putih,Jakarta,1,Lengkap,Tidak,Tidak,Ya,64.9,76.2,55.7
+MB20190566,Suzuki,Ertiga,MPV,2019,165559,MT,Bensin,1445,Kuning,Denpasar,4,Sebagian,Tidak,Tidak,Tidak,159.5,122.6,72.7
+MB20110567,Mitsubishi,Pajero Sport,SUV,2011,121542,AT,Diesel,2400,Hitam,Yogyakarta,1,Tidak Ada,Tidak,Tidak,Ya,212.0,202.0,62.4
+MB20190568,Honda,HR-V,SUV,2019,61120,CVT,Bensin,1585,Hitam,Yogyakarta,1,Lengkap,Tidak,Tidak,Tidak,271.8,208.4,92.6
+MB20190569,Daihatsu,Ayla,City Car,2019,50559,AT,Bensin,1099,Putih,Makassar,1,Lengkap,Tidak,Ya,Tidak,78.3,81.2,74.3
+MB20110570,Mitsubishi,Pajero Sport,SUV,2011,83880,AT,Diesel,2400,Coklat,Denpasar,2,Sebagian,Tidak,Tidak,Ya,261.5,221.0,75.1
+MB20200571,Honda,HR-V,SUV,2020,72782,CVT,Bensin,1700,Biru,Surabaya,2,Lengkap,Tidak,Tidak,Ya,287.3,237.6,90.1
+MB20220572,Toyota,Rush,SUV,2022,16354,AT,Bensin,1500,Merah,Denpasar,3,Sebagian,Tidak,Tidak,Ya,266.7,251.9,95.2
+MB20140573,Mitsubishi,Pajero Sport,SUV,2014,160118,AT,Diesel,2400,Hitam,Medan,4,Tidak Ada,Tidak,Tidak,Ya,228.2,224.5,57.8
+MB20160574,Toyota,Fortuner,SUV,2016,128679,AT,Bensin,2781,Hitam,Bekasi,2,Lengkap,Tidak,Tidak,Ya,243.6,273.0,58.9
+MB20140575,Toyota,Innova,MPV,2014,346452,AT,Bensin,2102,Putih,Makassar,2,Lengkap,Tidak,Tidak,Ya,186.2,162.7,59.1
+MB20120576,Mitsubishi,Xpander,MPV,2012,246522,AT,Bensin,1500,Silver,Tangerang,2,Sebagian,Tidak,Tidak,Ya,111.3,89.1,60.2
+MB20120577,Honda,HR-V,SUV,2012,163477,CVT,Bensin,1612,Merah,Depok,1,Lengkap,Tidak,Tidak,Ya,123.5,110.4,71.4
+MB20200578,Toyota,Agya,City Car,2020,97374,MT,Bensin,1151,Merah,Tangerang,2,Lengkap,Tidak,Tidak,Ya,121.1,99.5,98.3
+MB20130579,Daihatsu,Ayla,City Car,2013,131044,AT,Bensin,1060,Abu-abu,Bogor,1,Sebagian,Tidak,Tidak,Ya,53.4,46.0,72.9
+MB20170580,Toyota,Avanza,MPV,2017,62691,MT,Bensin,1326,Abu-abu,Medan,3,Lengkap,Tidak,Tidak,Tidak,138.2,117.3,86.4
+MB20190581,Daihatsu,Terios,SUV,2019,38562,MT,Bensin,1500,Biru,Jakarta,2,Sebagian,Tidak,Ya,Ya,194.3,163.7,76.4
+MB20100582,Honda,HR-V,SUV,2010,102454,AT,Bensin,1722,Coklat,Bogor,2,Sebagian,Tidak,Ya,Tidak,76.1,84.2,35.5
+MB20240583,Toyota,Agya,City Car,2024,18437,AT,Bensin,1187,Abu-abu,Bandung,2,Lengkap,Tidak,Tidak,Tidak,215.1,172.3,113.8
+MB20190584,Daihatsu,Xenia,MPV,2019,135297,MT,Bensin,1322,Merah,Medan,1,Sebagian,Tidak,Tidak,Ya,132.8,122.3,84.6
+MB20240585,Daihatsu,Terios,SUV,2024,5831,MT,Bensin,1500,Merah,Bekasi,1,Tidak Ada,Tidak,Tidak,Ya,355.4,271.7,104.0
+MB20170586,Toyota,Innova,MPV,2017,89093,MT,Bensin,2365,Silver,Medan,2,Lengkap,Tidak,Ya,Ya,201.4,193.7,69.5
+MB20200587,Honda,HR-V,SUV,2020,55503,CVT,Bensin,1578,Putih,Makassar,3,Lengkap,Tidak,Tidak,Ya,375.2,266.3,101.4
+MB20230588,Toyota,Agya,City Car,2023,42596,AT,Bensin,1168,Biru,Depok,2,Lengkap,Tidak,Tidak,Ya,146.5,141.1,101.4
+MB20140589,Daihatsu,Terios,SUV,2014,129898,AT,Bensin,1500,Hitam,Semarang,1,Tidak Ada,Tidak,Tidak,Ya,146.5,115.3,76.7
+MB20160590,Honda,HR-V,SUV,2016,115464,CVT,Bensin,1530,Coklat,Surabaya,2,Tidak Ada,Tidak,Tidak,Ya,133.5,168.2,39.3
+MB20140591,Daihatsu,Terios,SUV,2014,89374,AT,Bensin,1500,Abu-abu,Denpasar,1,Sebagian,Tidak,Tidak,Ya,87.8,119.8,31.9
+MB20130592,Toyota,Rush,SUV,2013,200458,AT,Bensin,1500,Merah,Surabaya,2,Sebagian,Tidak,Tidak,Ya,87.8,102.7,46.7
+MB20190593,Honda,HR-V,SUV,2019,148899,AT,Bensin,1665,Biru,Semarang,2,Lengkap,Tidak,Tidak,Ya,225.0,193.9,86.2
+MB20120594,Toyota,Rush,SUV,2012,97121,MT,Bensin,1500,Hitam,Depok,2,Tidak Ada,Tidak,Tidak,Ya,89.1,83.4,64.4
+MB20160595,Mitsubishi,Xpander,MPV,2016,292112,AT,Bensin,1500,Kuning,Bekasi,1,Lengkap,Tidak,Tidak,Ya,110.3,118.8,58.6
+MB20210596,Toyota,Avanza,MPV,2021,60977,AT,Bensin,1339,Merah,Bandung,1,Sebagian,Tidak,Tidak,Ya,142.2,175.4,65.3
+MB20220597,Mitsubishi,Pajero Sport,SUV,2022,58183,AT,Diesel,2400,Biru,Denpasar,5,Lengkap,Tidak,Tidak,Tidak,436.1,488.2,75.4
+MB20140598,Toyota,Rush,SUV,2014,147975,AT,Bensin,1500,Biru,Bogor,2,Lengkap,Tidak,Tidak,Ya,116.8,114.4,72.9
+MB20230599,Daihatsu,Xenia,MPV,2023,17704,AT,Bensin,1414,Abu-abu,Surabaya,2,Sebagian,Tidak,Tidak,Ya,212.1,189.9,95.8
+MB20160600,Daihatsu,Xenia,MPV,2016,96001,MT,Bensin,1313,Abu-abu,Jakarta,3,Sebagian,Tidak,Tidak,Tidak,73.0,83.7,51.9
+MB20210601,Daihatsu,Ayla,City Car,2021,47750,MT,Bensin,1057,Biru,Depok,1,Sebagian,Tidak,Tidak,Tidak,130.4,109.3,97.6
+MB20240602,Toyota,Rush,SUV,2024,7325,AT,Bensin,1500,Biru,Bekasi,2,Sebagian,Tidak,Tidak,Ya,282.4,278.9,102.0
+MB20190603,Toyota,Agya,City Car,2019,115491,AT,Bensin,1176,Hitam,Semarang,1,Lengkap,Tidak,Tidak,Tidak,80.9,88.7,77.0
+MB20190604,Toyota,Avanza,MPV,2019,22257,AT,Bensin,1495,Hitam,Tangerang,2,Lengkap,Tidak,Ya,Ya,98.8,119.1,48.9
+MB20160605,Honda,Brio,City Car,2016,151851,MT,Bensin,1200,Coklat,Bekasi,2,Sebagian,Tidak,Ya,Tidak,60.0,61.4,54.8
+MB20140606,Daihatsu,Terios,SUV,2014,235781,MT,Bensin,1500,Hitam,Depok,2,Tidak Ada,Tidak,Tidak,Tidak,67.8,85.2,25.6
+MB20120607,Toyota,Avanza,MPV,2012,177879,MT,Bensin,1449,Coklat,Semarang,1,Lengkap,Tidak,Tidak,Ya,57.9,68.7,40.8
+MB20160608,Daihatsu,Terios,SUV,2016,21248,MT,Bensin,1500,Putih,Yogyakarta,2,Lengkap,Tidak,Tidak,Ya,183.4,135.8,92.2
+MB20220609,Toyota,Fortuner,SUV,2022,60208,AT,Diesel,2747,Silver,Depok,2,Sebagian,Tidak,Ya,Tidak,531.8,462.1,85.7
+MB20190610,Honda,Brio,City Car,2019,84437,MT,Bensin,1200,Kuning,Bekasi,2,Sebagian,Ya,Tidak,Ya,112.2,83.6,64.6
+MB20120611,Honda,Jazz,Hatchback,2012,330786,AT,Bensin,1500,Merah,Tangerang,2,Sebagian,Ya,Ya,Ya,64.0,53.1,17.8
+MB20220612,Toyota,Rush,SUV,2022,28285,MT,Bensin,1500,Hitam,Jakarta,3,Tidak Ada,Tidak,Tidak,Ya,209.9,233.8,79.5
+MB20230613,Toyota,Fortuner,SUV,2023,36437,AT,Bensin,2656,Biru,Denpasar,2,Sebagian,Tidak,Tidak,Ya,639.8,593.3,103.6
+MB20110614,Toyota,Innova,MPV,2011,224123,MT,Bensin,2132,Silver,Bandung,4,Lengkap,Tidak,Tidak,Tidak,124.3,112.8,56.6
+MB20100615,Mitsubishi,Xpander,MPV,2010,302393,AT,Bensin,1500,Merah,Bekasi,4,Sebagian,Tidak,Tidak,Ya,82.1,67.5,45.9
+MB20100616,Daihatsu,Ayla,City Car,2010,254841,AT,Bensin,1036,Silver,Denpasar,2,Sebagian,Tidak,Tidak,Tidak,50.0,35.3,52.0
+MB20160617,Toyota,Agya,City Car,2016,155226,AT,Bensin,1048,Putih,Denpasar,4,Lengkap,Tidak,Tidak,Tidak,50.0,60.2,46.8
+MB20220618,Mitsubishi,Xpander,MPV,2022,7437,MT,Bensin,1500,Merah,Depok,2,Sebagian,Tidak,Tidak,Ya,278.0,240.6,100.0
+MB20220619,Suzuki,Ertiga,MPV,2022,24424,MT,Bensin,1467,Hitam,Jakarta,5,Sebagian,Ya,Tidak,Ya,168.6,159.4,69.5
+MB20180620,Honda,Jazz,Hatchback,2018,54443,AT,Bensin,1500,Hitam,Semarang,3,Sebagian,Tidak,Ya,Ya,141.0,130.5,68.7
+MB20190621,Daihatsu,Terios,SUV,2019,81547,AT,Bensin,1500,Hitam,Makassar,2,Sebagian,Tidak,Tidak,Ya,178.6,175.7,85.1
+MB20230622,Honda,Jazz,Hatchback,2023,27003,MT,Bensin,1500,Silver,Semarang,2,Lengkap,Tidak,Tidak,Ya,247.4,248.6,101.4
+MB20210623,Toyota,Agya,City Car,2021,20295,AT,Bensin,1015,Biru,Depok,3,Tidak Ada,Tidak,Tidak,Tidak,141.3,101.6,92.2
+MB20140624,Honda,HR-V,SUV,2014,75327,AT,Bensin,1623,Hitam,Yogyakarta,2,Lengkap,Tidak,Tidak,Ya,142.7,142.5,78.3
+MB20150625,Honda,Jazz,Hatchback,2015,294515,MT,Bensin,1500,Silver,Yogyakarta,3,Tidak Ada,Tidak,Tidak,Ya,94.0,86.2,58.1
+MB20200626,Honda,Jazz,Hatchback,2020,103862,MT,Bensin,1500,Merah,Surabaya,3,Sebagian,Tidak,Tidak,Ya,142.9,127.7,79.8
+MB20200627,Daihatsu,Xenia,MPV,2020,36467,AT,Bensin,1499,Coklat,Makassar,1,Lengkap,Tidak,Tidak,Tidak,181.6,146.9,100.9
+MB20220628,Mitsubishi,Xpander,MPV,2022,56057,MT,Bensin,1500,Kuning,Tangerang,1,Lengkap,Ya,Tidak,Ya,221.9,206.0,76.3
+MB20180629,Toyota,Fortuner,SUV,2018,40576,AT,Diesel,2515,Kuning,Medan,2,Tidak Ada,Tidak,Ya,Tidak,306.3,309.6,64.6
+MB20190630,Suzuki,Ertiga,MPV,2019,116807,AT,Bensin,1458,Biru,Medan,2,Sebagian,Tidak,Tidak,Tidak,176.6,152.9,84.6
+MB20110631,Honda,Brio,City Car,2011,274999,AT,Bensin,1200,Kuning,Bekasi,4,Sebagian,Tidak,Tidak,Ya,50.0,38.8,51.2
+MB20180632,Toyota,Innova,MPV,2018,103172,AT,Diesel,2339,Merah,Tangerang,1,Sebagian,Tidak,Tidak,Ya,338.6,242.4,84.0
+MB20180633,Daihatsu,Xenia,MPV,2018,84369,MT,Bensin,1305,Silver,Makassar,3,Lengkap,Ya,Tidak,Tidak,115.7,92.6,67.8
+MB20180634,Toyota,Fortuner,SUV,2018,111255,AT,Bensin,2442,Putih,Bandung,1,Sebagian,Tidak,Tidak,Ya,279.1,360.9,47.5
+MB20130635,Honda,HR-V,SUV,2013,140343,AT,Bensin,1588,Coklat,Bandung,2,Sebagian,Tidak,Tidak,Ya,108.8,112.1,58.2
+MB20110636,Toyota,Agya,City Car,2011,159634,MT,Bensin,1199,Biru,Makassar,1,Sebagian,Tidak,Tidak,Ya,50.0,35.5,69.2
+MB20130637,Daihatsu,Terios,SUV,2013,197536,AT,Bensin,1500,Silver,Bandung,2,Sebagian,Ya,Tidak,Ya,88.4,76.7,39.9
+MB20200638,Mitsubishi,Xpander,MPV,2020,111326,AT,Bensin,1500,Biru,Tangerang,1,Tidak Ada,Tidak,Tidak,Ya,176.7,176.4,82.1
+MB20220639,Toyota,Innova,MPV,2022,39926,MT,Bensin,2218,Coklat,Makassar,2,Lengkap,Tidak,Ya,Ya,246.8,347.8,39.6
+MB20120640,Mitsubishi,Xpander,MPV,2012,437675,AT,Bensin,1500,Hitam,Yogyakarta,2,Sebagian,Tidak,Tidak,Ya,89.3,73.4,44.4
+MB20140641,Daihatsu,Xenia,MPV,2014,76337,AT,Bensin,1436,Kuning,Bekasi,1,Lengkap,Tidak,Tidak,Ya,113.9,93.1,84.3
+MB20130642,Toyota,Agya,City Car,2013,192836,MT,Bensin,1136,Kuning,Yogyakarta,3,Tidak Ada,Tidak,Tidak,Ya,50.0,39.3,59.5
+MB20150643,Toyota,Fortuner,SUV,2015,267277,AT,Diesel,2775,Abu-abu,Surabaya,2,Lengkap,Tidak,Ya,Ya,261.6,203.0,49.6
+MB20220644,Suzuki,Ertiga,MPV,2022,70094,AT,Bensin,1438,Hitam,Bogor,2,Tidak Ada,Tidak,Tidak,Ya,165.1,201.4,65.9
+MB20210645,Honda,HR-V,SUV,2021,37103,AT,Bensin,1716,Putih,Yogyakarta,5,Lengkap,Tidak,Tidak,Ya,309.5,259.9,92.4
+MB20100646,Daihatsu,Ayla,City Car,2010,392511,AT,Bensin,1021,Silver,Semarang,2,Sebagian,Tidak,Ya,Ya,50.0,35.0,31.1
+MB20230647,Mitsubishi,Xpander,MPV,2023,51713,AT,Bensin,1500,Putih,Makassar,2,Sebagian,Tidak,Tidak,Ya,227.7,229.8,94.9
+MB20220648,Toyota,Rush,SUV,2022,33352,MT,Bensin,1500,Silver,Bekasi,2,Sebagian,Tidak,Tidak,Ya,250.5,236.4,96.4
+MB20240649,Toyota,Avanza,MPV,2024,24934,AT,Bensin,1444,Merah,Surabaya,1,Lengkap,Tidak,Tidak,Ya,257.3,223.1,109.5
+MB20160650,Toyota,Rush,SUV,2016,142736,MT,Bensin,1500,Silver,Bandung,4,Sebagian,Tidak,Ya,Ya,103.2,123.8,34.3
+MB20210651,Toyota,Agya,City Car,2021,39214,MT,Bensin,1045,Biru,Bandung,2,Lengkap,Tidak,Tidak,Tidak,136.4,119.1,104.1
+MB20110652,Mitsubishi,Pajero Sport,SUV,2011,181046,AT,Diesel,2400,Kuning,Bogor,2,Lengkap,Tidak,Ya,Ya,128.1,163.6,15.0
+MB20220653,Daihatsu,Ayla,City Car,2022,25715,AT,Bensin,1138,Abu-abu,Denpasar,2,Tidak Ada,Tidak,Tidak,Tidak,139.9,112.9,94.7
+MB20220654,Toyota,Fortuner,SUV,2022,22380,AT,Bensin,2420,Biru,Denpasar,2,Sebagian,Tidak,Tidak,Tidak,576.6,569.3,101.4
+MB20190655,Toyota,Agya,City Car,2019,79089,AT,Bensin,1076,Abu-abu,Denpasar,4,Sebagian,Tidak,Tidak,Tidak,112.2,80.5,85.6
+MB20120656,Toyota,Fortuner,SUV,2012,136317,AT,Diesel,2775,Biru,Bekasi,1,Lengkap,Tidak,Tidak,Ya,287.2,223.5,75.9
+MB20190657,Honda,HR-V,SUV,2019,59796,AT,Bensin,1639,Abu-abu,Yogyakarta,2,Sebagian,Tidak,Ya,Ya,214.6,211.9,71.8
+MB20100658,Mitsubishi,Pajero Sport,SUV,2010,33408,AT,Diesel,2400,Kuning,Denpasar,1,Sebagian,Ya,Tidak,Ya,182.4,150.0,54.9
+MB20190659,Mitsubishi,Xpander,MPV,2019,50607,AT,Bensin,1500,Coklat,Semarang,1,Lengkap,Tidak,Tidak,Tidak,188.1,173.1,90.3
+MB20120660,Honda,Jazz,Hatchback,2012,118770,MT,Bensin,1500,Merah,Semarang,2,Sebagian,Tidak,Tidak,Ya,75.0,73.8,66.7
+MB20220661,Daihatsu,Terios,SUV,2022,27813,MT,Bensin,1500,Putih,Depok,1,Tidak Ada,Tidak,Tidak,Ya,218.5,244.4,84.0
+MB20160662,Toyota,Agya,City Car,2016,76753,MT,Bensin,1030,Putih,Denpasar,4,Lengkap,Tidak,Tidak,Tidak,63.6,55.8,80.0
+MB20200663,Honda,Brio,City Car,2020,55607,MT,Bensin,1200,Hitam,Yogyakarta,3,Lengkap,Tidak,Tidak,Ya,176.6,134.9,95.3
+MB20240664,Honda,Brio,City Car,2024,9946,MT,Bensin,1200,Silver,Makassar,3,Lengkap,Tidak,Ya,Tidak,249.1,173.7,94.1
+MB20160665,Toyota,Agya,City Car,2016,41077,MT,Bensin,1026,Merah,Depok,2,Sebagian,Tidak,Tidak,Ya,61.8,63.2,78.7
+MB20130666,Honda,HR-V,SUV,2013,254600,AT,Bensin,1794,Putih,Bekasi,2,Sebagian,Tidak,Tidak,Tidak,96.4,100.8,47.3
+MB20160667,Toyota,Rush,SUV,2016,99811,MT,Bensin,1500,Abu-abu,Bandung,2,Lengkap,Tidak,Tidak,Ya,118.3,140.4,58.3
+MB20180668,Honda,HR-V,SUV,2018,36108,CVT,Bensin,1631,Coklat,Bogor,2,Sebagian,Tidak,Tidak,Ya,287.6,202.6,92.1
+MB20170669,Toyota,Agya,City Car,2017,19694,AT,Bensin,1087,Merah,Medan,2,Sebagian,Tidak,Ya,Ya,100.0,72.7,80.8
+MB20170670,Mitsubishi,Pajero Sport,SUV,2017,65300,AT,Diesel,2400,Kuning,Bogor,1,Lengkap,Tidak,Tidak,Ya,464.0,377.3,91.9
+MB20180671,Honda,Jazz,Hatchback,2018,85772,AT,Bensin,1500,Kuning,Denpasar,1,Tidak Ada,Tidak,Ya,Ya,141.0,130.4,66.2
+MB20240672,Honda,Brio,City Car,2024,32048,MT,Bensin,1200,Kuning,Bogor,1,Tidak Ada,Tidak,Tidak,Ya,155.3,153.5,92.5
+MB20190673,Honda,HR-V,SUV,2019,77487,AT,Bensin,1698,Merah,Makassar,2,Tidak Ada,Tidak,Tidak,Ya,180.9,186.2,71.6
+MB20100674,Suzuki,Ertiga,MPV,2010,359374,MT,Bensin,1482,Hitam,Tangerang,1,Sebagian,Tidak,Tidak,Tidak,57.8,57.1,40.5
+MB20160675,Toyota,Avanza,MPV,2016,173365,MT,Bensin,1439,Coklat,Denpasar,3,Tidak Ada,Tidak,Tidak,Tidak,123.5,91.4,68.5
+MB20140676,Honda,HR-V,SUV,2014,236716,AT,Bensin,1757,Abu-abu,Medan,4,Tidak Ada,Tidak,Tidak,Tidak,93.0,102.7,38.8
+MB20230677,Honda,Jazz,Hatchback,2023,17232,MT,Bensin,1500,Silver,Yogyakarta,2,Sebagian,Tidak,Tidak,Ya,230.4,233.6,97.1
+MB20140678,Toyota,Fortuner,SUV,2014,217296,AT,Diesel,2739,Merah,Tangerang,3,Lengkap,Tidak,Tidak,Tidak,319.1,223.9,70.4
+MB20140679,Mitsubishi,Xpander,MPV,2014,64749,AT,Bensin,1500,Merah,Denpasar,3,Lengkap,Tidak,Tidak,Ya,79.1,92.6,51.1
+MB20110680,Toyota,Agya,City Car,2011,78005,MT,Bensin,1174,Biru,Denpasar,1,Sebagian,Tidak,Ya,Tidak,50.0,37.4,60.0
+MB20150681,Daihatsu,Terios,SUV,2015,172975,MT,Bensin,1500,Biru,Jakarta,3,Lengkap,Tidak,Tidak,Tidak,103.1,112.7,64.0
+MB20110682,Daihatsu,Ayla,City Car,2011,198146,AT,Bensin,1102,Merah,Denpasar,3,Lengkap,Tidak,Ya,Ya,50.0,34.1,45.7
+MB20140683,Daihatsu,Ayla,City Car,2014,212171,MT,Bensin,1195,Kuning,Denpasar,1,Tidak Ada,Tidak,Tidak,Ya,57.7,43.8,65.6
+MB20150684,Mitsubishi,Xpander,MPV,2015,178215,MT,Bensin,1500,Biru,Bogor,2,Tidak Ada,Tidak,Tidak,Ya,102.2,99.0,58.9
+MB20190685,Toyota,Agya,City Car,2019,73567,MT,Bensin,1075,Kuning,Jakarta,1,Lengkap,Tidak,Tidak,Tidak,86.7,90.8,91.2
+MB20190686,Daihatsu,Terios,SUV,2019,109969,MT,Bensin,1500,Putih,Yogyakarta,2,Lengkap,Tidak,Tidak,Tidak,156.8,174.9,77.7
+MB20160687,Toyota,Avanza,MPV,2016,207439,MT,Bensin,1430,Merah,Bekasi,4,Tidak Ada,Ya,Tidak,Ya,58.0,68.3,11.8
+MB20110688,Toyota,Avanza,MPV,2011,191930,MT,Bensin,1368,Hitam,Makassar,2,Tidak Ada,Tidak,Tidak,Ya,55.6,54.9,48.6
+MB20180689,Honda,HR-V,SUV,2018,49891,CVT,Bensin,1632,Hitam,Bandung,2,Tidak Ada,Tidak,Tidak,Ya,262.0,213.8,83.8
+MB20210690,Mitsubishi,Xpander,MPV,2021,123538,AT,Bensin,1500,Kuning,Medan,2,Sebagian,Tidak,Tidak,Ya,154.5,188.5,59.4
+MB20170691,Honda,HR-V,SUV,2017,83527,AT,Bensin,1653,Coklat,Surabaya,1,Lengkap,Tidak,Tidak,Tidak,138.7,164.4,59.5
+MB20170692,Mitsubishi,Pajero Sport,SUV,2017,29286,AT,Diesel,2400,Hitam,Bekasi,3,Lengkap,Tidak,Tidak,Ya,436.7,355.5,89.8
+MB20150693,Toyota,Avanza,MPV,2015,130540,MT,Bensin,1350,Silver,Depok,3,Lengkap,Tidak,Ya,Ya,115.9,84.8,63.9
+MB20160694,Mitsubishi,Xpander,MPV,2016,100706,MT,Bensin,1500,Biru,Tangerang,5,Lengkap,Tidak,Ya,Tidak,96.9,99.7,54.7
+MB20150695,Daihatsu,Xenia,MPV,2015,224938,MT,Bensin,1366,Hitam,Surabaya,1,Sebagian,Tidak,Tidak,Ya,68.7,85.4,37.8
+MB20220696,Daihatsu,Ayla,City Car,2022,38742,AT,Bensin,1053,Hitam,Surabaya,1,Sebagian,Tidak,Ya,Ya,106.7,117.9,69.7
+MB20180697,Suzuki,Ertiga,MPV,2018,147567,AT,Bensin,1468,Hitam,Jakarta,1,Lengkap,Tidak,Tidak,Ya,137.3,152.1,70.9
+MB20180698,Toyota,Rush,SUV,2018,122758,MT,Bensin,1500,Biru,Medan,1,Tidak Ada,Tidak,Tidak,Ya,192.9,153.5,80.9
+MB20230699,Toyota,Agya,City Car,2023,60261,MT,Bensin,1044,Coklat,Denpasar,1,Lengkap,Ya,Ya,Tidak,84.3,88.2,56.2
+MB20140700,Toyota,Fortuner,SUV,2014,148706,AT,Bensin,2509,Silver,Depok,1,Lengkap,Tidak,Ya,Tidak,196.9,211.5,51.0
+MB20140701,Toyota,Avanza,MPV,2014,94145,AT,Bensin,1479,Abu-abu,Yogyakarta,2,Sebagian,Ya,Tidak,Ya,106.5,74.8,53.7
+MB20150702,Toyota,Innova,MPV,2015,64804,AT,Bensin,2096,Kuning,Bekasi,1,Sebagian,Tidak,Ya,Ya,199.2,198.3,64.9
+MB20170703,Toyota,Rush,SUV,2017,45744,AT,Bensin,1500,Biru,Medan,3,Sebagian,Tidak,Tidak,Ya,134.7,138.6,72.3
+MB20150704,Honda,Brio,City Car,2015,78617,AT,Bensin,1200,Biru,Denpasar,2,Tidak Ada,Tidak,Tidak,Ya,61.8,71.2,58.0
+MB20190705,Daihatsu,Ayla,City Car,2019,133904,AT,Bensin,1150,Kuning,Bekasi,1,Sebagian,Ya,Ya,Ya,50.0,54.9,26.3
+MB20140706,Toyota,Avanza,MPV,2014,230821,MT,Bensin,1403,Biru,Tangerang,4,Sebagian,Tidak,Ya,Ya,79.0,59.5,41.8
+MB20240707,Honda,Jazz,Hatchback,2024,19495,MT,Bensin,1500,Coklat,Medan,1,Sebagian,Tidak,Tidak,Tidak,333.0,255.1,107.9
+MB20140708,Daihatsu,Terios,SUV,2014,191389,AT,Bensin,1500,Coklat,Makassar,2,Lengkap,Tidak,Ya,Ya,117.1,98.1,57.2
+MB20100709,Mitsubishi,Pajero Sport,SUV,2010,212825,AT,Diesel,2400,Silver,Denpasar,1,Lengkap,Ya,Tidak,Tidak,187.0,145.9,40.4
+MB20140710,Honda,HR-V,SUV,2014,179368,AT,Bensin,1613,Kuning,Yogyakarta,4,Sebagian,Tidak,Tidak,Ya,96.9,111.5,37.9
+MB20200711,Toyota,Fortuner,SUV,2020,51671,AT,Bensin,2638,Abu-abu,Bekasi,1,Lengkap,Tidak,Tidak,Tidak,465.1,462.6,101.0
+MB20130712,Mitsubishi,Pajero Sport,SUV,2013,121145,AT,Diesel,2400,Putih,Bogor,4,Sebagian,Tidak,Tidak,Tidak,217.4,223.1,60.3
+MB20160713,Toyota,Agya,City Car,2016,129587,AT,Bensin,1066,Merah,Bekasi,2,Tidak Ada,Tidak,Tidak,Ya,82.8,63.2,74.1
+MB20100714,Toyota,Rush,SUV,2010,270071,MT,Bensin,1500,Putih,Yogyakarta,2,Lengkap,Tidak,Ya,Ya,58.0,56.6,34.4
+MB20150715,Honda,HR-V,SUV,2015,48940,CVT,Bensin,1648,Silver,Depok,3,Lengkap,Tidak,Tidak,Ya,197.4,162.4,83.6
+MB20180716,Toyota,Innova,MPV,2018,23909,AT,Diesel,2010,Putih,Surabaya,3,Lengkap,Tidak,Tidak,Ya,270.1,321.9,70.7
+MB20140717,Toyota,Fortuner,SUV,2014,127688,AT,Diesel,2757,Putih,Bekasi,2,Lengkap,Tidak,Tidak,Ya,320.0,236.4,74.3
+MB20170718,Toyota,Fortuner,SUV,2017,81535,AT,Diesel,2650,Coklat,Bogor,2,Tidak Ada,Tidak,Tidak,Tidak,298.3,308.0,71.5
+MB20210719,Toyota,Rush,SUV,2021,53208,AT,Bensin,1500,Hitam,Bogor,3,Sebagian,Tidak,Tidak,Ya,257.5,222.7,91.6
+MB20160720,Daihatsu,Ayla,City Car,2016,77956,MT,Bensin,1019,Abu-abu,Bandung,3,Tidak Ada,Tidak,Tidak,Ya,50.0,53.6,57.3
+MB20150721,Daihatsu,Xenia,MPV,2015,50721,AT,Bensin,1422,Abu-abu,Bandung,2,Lengkap,Tidak,Tidak,Ya,97.9,104.9,78.9
+MB20140722,Daihatsu,Ayla,City Car,2014,273611,MT,Bensin,1177,Silver,Bekasi,1,Lengkap,Tidak,Tidak,Tidak,50.0,43.2,67.6
+MB20150723,Toyota,Innova,MPV,2015,156575,AT,Diesel,2190,Biru,Yogyakarta,2,Sebagian,Tidak,Ya,Tidak,159.1,169.8,46.9
+MB20130724,Honda,Brio,City Car,2013,113598,AT,Bensin,1200,Hitam,Yogyakarta,2,Sebagian,Tidak,Tidak,Tidak,50.0,48.4,64.7
+MB20150725,Toyota,Agya,City Car,2015,223785,AT,Bensin,1048,Biru,Tangerang,3,Sebagian,Tidak,Tidak,Ya,50.0,50.2,61.6
+MB20220726,Honda,Jazz,Hatchback,2022,40208,AT,Bensin,1500,Biru,Surabaya,4,Lengkap,Tidak,Tidak,Tidak,223.8,222.3,98.8
+MB20190727,Daihatsu,Terios,SUV,2019,46708,AT,Bensin,1500,Coklat,Tangerang,2,Lengkap,Tidak,Tidak,Ya,134.8,179.5,51.8
+MB20140728,Toyota,Rush,SUV,2014,158496,MT,Bensin,1500,Merah,Bandung,3,Tidak Ada,Tidak,Ya,Tidak,111.2,79.2,55.9
+MB20210729,Toyota,Fortuner,SUV,2021,23180,AT,Bensin,2598,Biru,Jakarta,3,Tidak Ada,Tidak,Tidak,Tidak,497.9,483.5,91.9
+MB20150730,Toyota,Avanza,MPV,2015,157096,MT,Bensin,1497,Merah,Jakarta,3,Sebagian,Ya,Tidak,Ya,91.2,66.6,42.8
+MB20150731,Honda,Jazz,Hatchback,2015,40865,MT,Bensin,1500,Abu-abu,Bekasi,2,Sebagian,Ya,Tidak,Ya,94.3,93.8,54.3
+MB20240732,Daihatsu,Ayla,City Car,2024,11052,MT,Bensin,1167,Coklat,Bekasi,2,Tidak Ada,Tidak,Tidak,Ya,127.4,131.9,87.2
+MB20230733,Toyota,Innova,MPV,2023,25813,AT,Bensin,2191,Merah,Depok,2,Lengkap,Tidak,Tidak,Ya,417.6,481.7,88.6
+MB20190734,Daihatsu,Terios,SUV,2019,69568,AT,Bensin,1500,Coklat,Medan,2,Sebagian,Tidak,Ya,Tidak,149.2,152.7,67.9
+MB20170735,Suzuki,Ertiga,MPV,2017,56789,AT,Bensin,1440,Coklat,Depok,3,Sebagian,Tidak,Tidak,Ya,135.1,143.0,72.8
+MB20210736,Toyota,Agya,City Car,2021,11968,MT,Bensin,1042,Biru,Depok,2,Sebagian,Tidak,Tidak,Ya,92.9,125.7,52.4
+MB20160737,Mitsubishi,Xpander,MPV,2016,108201,MT,Bensin,1500,Putih,Yogyakarta,2,Sebagian,Tidak,Tidak,Ya,109.4,125.8,58.1
+MB20150738,Mitsubishi,Pajero Sport,SUV,2015,129223,AT,Diesel,2400,Merah,Makassar,5,Lengkap,Ya,Tidak,Ya,251.4,213.9,46.6
+MB20160739,Toyota,Fortuner,SUV,2016,117678,AT,Bensin,2603,Silver,Denpasar,1,Lengkap,Tidak,Tidak,Tidak,420.4,316.5,86.7
+MB20240740,Toyota,Agya,City Car,2024,11140,AT,Bensin,1115,Hitam,Jakarta,4,Sebagian,Tidak,Tidak,Ya,213.5,156.0,101.8
+MB20240741,Suzuki,Ertiga,MPV,2024,27723,AT,Bensin,1449,Putih,Denpasar,2,Sebagian,Tidak,Tidak,Ya,278.6,223.8,104.0
+MB20240742,Honda,Brio,City Car,2024,7735,MT,Bensin,1200,Putih,Jakarta,2,Sebagian,Tidak,Tidak,Ya,186.7,221.7,84.2
+MB20200743,Mitsubishi,Pajero Sport,SUV,2020,87818,AT,Diesel,2400,Coklat,Surabaya,2,Sebagian,Tidak,Tidak,Ya,357.6,453.7,54.2
+MB20150744,Toyota,Innova,MPV,2015,147469,MT,Bensin,2070,Abu-abu,Yogyakarta,1,Tidak Ada,Tidak,Ya,Ya,177.4,158.5,55.3
+MB20230745,Toyota,Innova,MPV,2023,33453,AT,Bensin,2144,Kuning,Denpasar,2,Lengkap,Tidak,Ya,Ya,441.5,377.1,89.3
+MB20210746,Toyota,Avanza,MPV,2021,53953,MT,Bensin,1457,Kuning,Bekasi,2,Lengkap,Tidak,Tidak,Ya,167.5,173.2,91.3
+MB20240747,Toyota,Fortuner,SUV,2024,10541,AT,Diesel,2652,Silver,Denpasar,1,Sebagian,Ya,Ya,Ya,552.3,531.0,69.7
+MB20110748,Toyota,Avanza,MPV,2011,154206,MT,Bensin,1351,Coklat,Semarang,4,Sebagian,Tidak,Tidak,Ya,58.7,58.3,56.5
+MB20100749,Honda,Jazz,Hatchback,2010,159561,MT,Bensin,1500,Abu-abu,Bandung,1,Sebagian,Tidak,Ya,Ya,70.4,51.4,46.6
+MB20230750,Toyota,Avanza,MPV,2023,33233,AT,Bensin,1450,Putih,Tangerang,1,Lengkap,Tidak,Ya,Ya,192.1,192.8,88.5
+MB20130751,Suzuki,Ertiga,MPV,2013,104065,MT,Bensin,1451,Biru,Medan,2,Lengkap,Tidak,Tidak,Ya,99.5,94.6,74.8
+MB20240752,Daihatsu,Ayla,City Car,2024,36736,AT,Bensin,1121,Silver,Semarang,1,Sebagian,Tidak,Tidak,Tidak,99.6,121.9,70.0
+MB20130753,Honda,Brio,City Car,2013,248698,MT,Bensin,1200,Biru,Surabaya,3,Sebagian,Tidak,Tidak,Ya,57.4,45.6,54.8
+MB20160754,Mitsubishi,Pajero Sport,SUV,2016,69714,AT,Diesel,2400,Kuning,Denpasar,1,Sebagian,Tidak,Tidak,Ya,345.8,342.9,86.8
+MB20170755,Suzuki,Ertiga,MPV,2017,92035,MT,Bensin,1495,Merah,Semarang,1,Lengkap,Tidak,Ya,Ya,111.5,129.5,51.7
+MB20180756,Honda,HR-V,SUV,2018,78857,AT,Bensin,1657,Merah,Surabaya,2,Lengkap,Tidak,Tidak,Ya,174.1,201.5,67.9
+MB20240757,Honda,HR-V,SUV,2024,14356,CVT,Bensin,1745,Kuning,Denpasar,5,Tidak Ada,Tidak,Tidak,Tidak,314.0,296.4,89.8
+MB20130758,Daihatsu,Terios,SUV,2013,322251,AT,Bensin,1500,Abu-abu,Denpasar,1,Sebagian,Ya,Tidak,Tidak,64.6,66.3,26.7
+MB20100759,Mitsubishi,Pajero Sport,SUV,2010,196484,AT,Diesel,2400,Kuning,Bandung,1,Tidak Ada,Tidak,Tidak,Ya,149.6,148.3,48.5
+MB20130760,Daihatsu,Ayla,City Car,2013,90613,MT,Bensin,1072,Kuning,Surabaya,2,Sebagian,Tidak,Tidak,Ya,50.0,43.8,73.3
+MB20100761,Honda,Brio,City Car,2010,145072,MT,Bensin,1200,Biru,Bogor,1,Tidak Ada,Tidak,Ya,Ya,50.0,37.7,47.3
+MB20240762,Toyota,Innova,MPV,2024,27281,AT,Diesel,2400,Merah,Tangerang,2,Lengkap,Tidak,Tidak,Ya,455.6,449.7,104.4
+MB20240763,Daihatsu,Xenia,MPV,2024,15398,MT,Bensin,1326,Merah,Yogyakarta,2,Sebagian,Tidak,Tidak,Ya,246.5,181.2,106.4
+MB20220764,Toyota,Avanza,MPV,2022,71685,AT,Bensin,1331,Coklat,Medan,2,Lengkap,Tidak,Tidak,Ya,250.1,168.8,102.7
+MB20120765,Mitsubishi,Xpander,MPV,2012,289082,AT,Bensin,1500,Hitam,Yogyakarta,3,Tidak Ada,Tidak,Tidak,Ya,96.9,72.3,50.4
+MB20150766,Toyota,Fortuner,SUV,2015,69888,AT,Bensin,2580,Biru,Bogor,2,Lengkap,Tidak,Tidak,Ya,310.0,279.1,82.9
+MB20120767,Toyota,Innova,MPV,2012,228560,AT,Diesel,2186,Biru,Tangerang,3,Sebagian,Tidak,Tidak,Ya,127.5,125.9,50.4
+MB20100768,Toyota,Innova,MPV,2010,110612,AT,Diesel,2336,Hitam,Tangerang,1,Sebagian,Tidak,Tidak,Ya,145.1,134.7,66.6
+MB20160769,Toyota,Innova,MPV,2016,209822,AT,Diesel,2277,Silver,Denpasar,2,Tidak Ada,Tidak,Tidak,Ya,194.5,183.9,59.0
+MB20180770,Mitsubishi,Pajero Sport,SUV,2018,202910,AT,Diesel,2400,Biru,Jakarta,2,Sebagian,Tidak,Ya,Ya,301.2,308.3,55.0
+MB20240771,Daihatsu,Xenia,MPV,2024,10929,MT,Bensin,1432,Merah,Jakarta,1,Tidak Ada,Tidak,Tidak,Ya,185.4,226.8,77.1
+MB20230772,Honda,Brio,City Car,2023,9178,MT,Bensin,1200,Putih,Depok,1,Lengkap,Tidak,Ya,Tidak,172.7,160.6,92.3
+MB20140773,Toyota,Fortuner,SUV,2014,203774,AT,Bensin,2605,Abu-abu,Makassar,2,Sebagian,Tidak,Tidak,Ya,216.6,228.8,52.2
+MB20190774,Toyota,Fortuner,SUV,2019,116077,AT,Diesel,2782,Silver,Depok,3,Sebagian,Tidak,Ya,Ya,418.2,343.2,68.1
+MB20150775,Toyota,Avanza,MPV,2015,156202,AT,Bensin,1440,Hitam,Bandung,3,Lengkap,Tidak,Tidak,Ya,84.1,94.9,56.1
+MB20240776,Honda,HR-V,SUV,2024,25787,CVT,Bensin,1618,Abu-abu,Denpasar,4,Lengkap,Tidak,Tidak,Ya,263.0,281.1,86.0
+MB20230777,Suzuki,Ertiga,MPV,2023,17533,MT,Bensin,1497,Abu-abu,Surabaya,3,Sebagian,Tidak,Tidak,Tidak,284.3,223.3,100.5
+MB20140778,Toyota,Agya,City Car,2014,142932,MT,Bensin,1169,Hitam,Surabaya,3,Lengkap,Ya,Tidak,Ya,50.0,42.7,53.3
+MB20200779,Toyota,Fortuner,SUV,2020,67815,AT,Diesel,2776,Abu-abu,Bekasi,2,Lengkap,Tidak,Tidak,Ya,456.3,443.3,92.6
+MB20110780,Honda,Brio,City Car,2011,124005,MT,Bensin,1200,Abu-abu,Denpasar,2,Lengkap,Tidak,Tidak,Ya,53.7,47.0,70.3
+MB20150781,Mitsubishi,Pajero Sport,SUV,2015,78818,AT,Diesel,2400,Silver,Medan,2,Tidak Ada,Tidak,Tidak,Ya,258.6,283.8,54.5
+MB20170782,Toyota,Agya,City Car,2017,201934,MT,Bensin,1117,Coklat,Bandung,2,Sebagian,Ya,Ya,Ya,59.1,44.1,35.8
+MB20120783,Toyota,Agya,City Car,2012,268001,MT,Bensin,1109,Silver,Semarang,1,Lengkap,Tidak,Tidak,Ya,50.0,36.2,61.5
+MB20150784,Toyota,Rush,SUV,2015,157267,AT,Bensin,1500,Abu-abu,Jakarta,2,Lengkap,Tidak,Tidak,Ya,147.9,126.5,76.8
+MB20200785,Toyota,Rush,SUV,2020,69390,AT,Bensin,1500,Abu-abu,Yogyakarta,1,Tidak Ada,Tidak,Tidak,Ya,190.2,192.4,84.1
+MB20180786,Honda,Jazz,Hatchback,2018,129895,MT,Bensin,1500,Merah,Tangerang,2,Sebagian,Ya,Tidak,Ya,111.4,109.7,54.0
+MB20140787,Toyota,Innova,MPV,2014,146472,MT,Bensin,2263,Abu-abu,Jakarta,3,Tidak Ada,Tidak,Tidak,Tidak,159.3,129.2,59.9
+MB20100788,Honda,Brio,City Car,2010,241911,MT,Bensin,1200,Putih,Yogyakarta,2,Lengkap,Tidak,Tidak,Ya,50.0,36.0,56.7
+MB20220789,Suzuki,Ertiga,MPV,2022,46766,AT,Bensin,1463,Silver,Depok,3,Sebagian,Tidak,Tidak,Ya,172.7,203.9,70.0
+MB20240790,Daihatsu,Terios,SUV,2024,12571,MT,Bensin,1500,Hitam,Semarang,1,Lengkap,Tidak,Ya,Ya,189.0,245.9,56.7
+MB20240791,Honda,Jazz,Hatchback,2024,9474,MT,Bensin,1500,Abu-abu,Makassar,4,Lengkap,Tidak,Ya,Ya,244.4,240.3,85.9
+MB20230792,Honda,Brio,City Car,2023,22569,MT,Bensin,1200,Abu-abu,Bogor,4,Lengkap,Tidak,Ya,Ya,187.3,150.9,86.2
+MB20200793,Suzuki,Ertiga,MPV,2020,63970,AT,Bensin,1409,Biru,Bekasi,2,Sebagian,Tidak,Ya,Tidak,185.7,134.5,73.9
+MB20130794,Toyota,Fortuner,SUV,2013,147948,AT,Bensin,2438,Putih,Medan,1,Lengkap,Tidak,Tidak,Ya,286.7,236.3,76.3
+MB20240795,Mitsubishi,Pajero Sport,SUV,2024,8443,AT,Diesel,2400,Biru,Medan,2,Sebagian,Tidak,Tidak,Ya,737.3,741.1,101.0
+MB20230796,Toyota,Rush,SUV,2023,30972,MT,Bensin,1500,Abu-abu,Surabaya,1,Lengkap,Tidak,Ya,Tidak,244.3,229.8,95.3
+MB20210797,Daihatsu,Ayla,City Car,2021,63202,AT,Bensin,1164,Kuning,Semarang,1,Lengkap,Tidak,Tidak,Ya,112.3,117.9,91.2
+MB20150798,Honda,Brio,City Car,2015,140859,MT,Bensin,1200,Merah,Denpasar,1,Lengkap,Tidak,Tidak,Ya,69.5,80.2,64.3
+MB20150799,Daihatsu,Xenia,MPV,2015,200498,MT,Bensin,1425,Putih,Denpasar,2,Tidak Ada,Tidak,Tidak,Tidak,66.9,68.4,53.8
+MB20220800,Toyota,Innova,MPV,2022,47502,AT,Diesel,2110,Putih,Bogor,2,Lengkap,Tidak,Tidak,Ya,442.9,395.5,100.2
+MB20180801,Toyota,Agya,City Car,2018,97257,MT,Bensin,1008,Hitam,Makassar,4,Tidak Ada,Tidak,Tidak,Ya,62.9,61.1,66.9
+MB20170802,Daihatsu,Terios,SUV,2017,93584,AT,Bensin,1500,Kuning,Bekasi,1,Sebagian,Tidak,Tidak,Ya,144.3,144.4,81.8
+MB20200803,Daihatsu,Ayla,City Car,2020,103261,AT,Bensin,1149,Merah,Makassar,2,Lengkap,Tidak,Tidak,Ya,80.0,96.2,64.9
+MB20180804,Honda,Brio,City Car,2018,64796,MT,Bensin,1200,Kuning,Bekasi,5,Lengkap,Tidak,Tidak,Ya,85.6,99.2,66.4
+MB20120805,Daihatsu,Xenia,MPV,2012,347157,MT,Bensin,1396,Silver,Surabaya,2,Sebagian,Ya,Tidak,Ya,50.0,41.9,21.4
+MB20200806,Daihatsu,Terios,SUV,2020,56001,MT,Bensin,1500,Biru,Denpasar,2,Sebagian,Tidak,Ya,Tidak,115.9,162.0,26.3
+MB20210807,Toyota,Rush,SUV,2021,59808,AT,Bensin,1500,Hitam,Medan,3,Lengkap,Tidak,Tidak,Ya,209.2,197.3,93.6
+MB20110808,Suzuki,Ertiga,MPV,2011,145209,MT,Bensin,1420,Kuning,Semarang,4,Lengkap,Ya,Ya,Ya,57.8,51.0,23.4
+MB20140809,Toyota,Fortuner,SUV,2014,226380,AT,Bensin,2653,Silver,Medan,1,Sebagian,Tidak,Tidak,Ya,159.3,223.4,16.4
+MB20130810,Toyota,Fortuner,SUV,2013,151903,AT,Diesel,2421,Coklat,Surabaya,1,Lengkap,Tidak,Tidak,Tidak,232.2,213.7,69.0
+MB20160811,Mitsubishi,Xpander,MPV,2016,73128,AT,Bensin,1500,Kuning,Bogor,3,Tidak Ada,Ya,Ya,Ya,92.1,79.9,34.0
+MB20230812,Toyota,Avanza,MPV,2023,22022,AT,Bensin,1458,Coklat,Bekasi,1,Lengkap,Tidak,Tidak,Ya,167.2,213.4,66.7
+MB20140813,Toyota,Fortuner,SUV,2014,218868,AT,Diesel,2576,Silver,Bogor,5,Sebagian,Tidak,Tidak,Ya,207.2,205.4,55.5
+MB20160814,Toyota,Avanza,MPV,2016,64368,MT,Bensin,1415,Putih,Bekasi,2,Sebagian,Tidak,Tidak,Tidak,109.1,95.8,82.0
+MB20150815,Toyota,Agya,City Car,2015,182256,AT,Bensin,1083,Coklat,Depok,1,Sebagian,Tidak,Tidak,Tidak,60.1,48.3,74.3
+MB20200816,Toyota,Rush,SUV,2020,77726,AT,Bensin,1500,Silver,Surabaya,3,Sebagian,Tidak,Tidak,Ya,187.4,181.9,85.4
+MB20120817,Daihatsu,Xenia,MPV,2012,277231,AT,Bensin,1414,Abu-abu,Makassar,1,Sebagian,Tidak,Tidak,Ya,54.6,55.1,50.1
+MB20200818,Toyota,Innova,MPV,2020,79388,AT,Bensin,2289,Kuning,Medan,2,Sebagian,Tidak,Tidak,Tidak,315.1,308.2,92.6
+MB20230819,Toyota,Agya,City Car,2023,22515,AT,Bensin,1196,Biru,Surabaya,2,Sebagian,Tidak,Tidak,Tidak,155.0,143.9,99.7
+MB20140820,Mitsubishi,Xpander,MPV,2014,201529,MT,Bensin,1500,Biru,Jakarta,1,Lengkap,Tidak,Tidak,Ya,113.0,104.4,72.2
+MB20190821,Toyota,Innova,MPV,2019,93846,MT,Diesel,2180,Hitam,Depok,4,Sebagian,Tidak,Tidak,Ya,351.3,287.2,87.4
+MB20100822,Mitsubishi,Xpander,MPV,2010,106784,AT,Bensin,1500,Merah,Semarang,5,Sebagian,Ya,Tidak,Ya,50.0,58.6,9.8
+MB20170823,Honda,HR-V,SUV,2017,119146,CVT,Bensin,1622,Merah,Bogor,1,Lengkap,Tidak,Ya,Tidak,186.6,152.4,72.5
+MB20150824,Toyota,Innova,MPV,2015,160462,MT,Diesel,2096,Kuning,Denpasar,3,Sebagian,Tidak,Tidak,Ya,230.1,204.1,74.4
+MB20180825,Mitsubishi,Pajero Sport,SUV,2018,90862,AT,Diesel,2400,Abu-abu,Tangerang,1,Lengkap,Tidak,Tidak,Tidak,414.8,417.8,87.5
+MB20160826,Honda,Jazz,Hatchback,2016,111222,MT,Bensin,1500,Biru,Semarang,1,Sebagian,Tidak,Tidak,Ya,122.3,120.5,83.6
+MB20160827,Daihatsu,Xenia,MPV,2016,96002,AT,Bensin,1485,Hitam,Medan,2,Lengkap,Tidak,Ya,Tidak,90.1,79.4,63.4
+MB20190828,Daihatsu,Xenia,MPV,2019,105148,AT,Bensin,1351,Abu-abu,Tangerang,4,Tidak Ada,Tidak,Tidak,Tidak,123.4,110.1,80.0
+MB20110829,Suzuki,Ertiga,MPV,2011,116099,AT,Bensin,1400,Putih,Bekasi,1,Sebagian,Tidak,Tidak,Ya,105.4,91.7,74.5
+MB20140830,Daihatsu,Terios,SUV,2014,80814,MT,Bensin,1500,Biru,Makassar,3,Tidak Ada,Tidak,Ya,Ya,107.9,86.6,55.3
+MB20240831,Honda,HR-V,SUV,2024,6245,AT,Bensin,1708,Abu-abu,Depok,1,Sebagian,Tidak,Tidak,Ya,455.0,386.0,107.3
+MB20230832,Suzuki,Ertiga,MPV,2023,31329,AT,Bensin,1443,Biru,Tangerang,1,Sebagian,Tidak,Tidak,Tidak,254.0,237.1,101.4
+MB20130833,Daihatsu,Xenia,MPV,2013,90323,MT,Bensin,1359,Hitam,Jakarta,3,Sebagian,Tidak,Tidak,Ya,74.3,78.0,67.4
+MB20220834,Toyota,Avanza,MPV,2022,23676,MT,Bensin,1382,Biru,Tangerang,1,Sebagian,Tidak,Tidak,Ya,202.7,195.8,99.2
+MB20110835,Toyota,Innova,MPV,2011,213932,AT,Bensin,2108,Coklat,Medan,2,Lengkap,Tidak,Tidak,Ya,125.5,125.2,55.6
+MB20210836,Toyota,Innova,MPV,2021,43429,MT,Bensin,2053,Abu-abu,Bandung,1,Sebagian,Tidak,Tidak,Ya,282.3,378.2,59.0
+MB20100837,Toyota,Rush,SUV,2010,260836,AT,Bensin,1500,Silver,Jakarta,2,Sebagian,Tidak,Tidak,Ya,71.5,73.2,47.8
+MB20180838,Toyota,Fortuner,SUV,2018,114581,AT,Bensin,2576,Kuning,Surabaya,3,Lengkap,Tidak,Tidak,Tidak,379.2,370.0,86.9
+MB20120839,Daihatsu,Ayla,City Car,2012,36247,MT,Bensin,1051,Abu-abu,Jakarta,2,Sebagian,Tidak,Ya,Ya,50.0,35.0,59.0
+MB20200840,Toyota,Innova,MPV,2020,68883,AT,Bensin,2181,Hitam,Tangerang,3,Sebagian,Tidak,Tidak,Ya,276.6,299.0,75.8
+MB20130841,Honda,HR-V,SUV,2013,283374,CVT,Bensin,1594,Coklat,Tangerang,3,Lengkap,Tidak,Tidak,Tidak,87.8,93.7,43.9
+MB20120842,Honda,Jazz,Hatchback,2012,118780,AT,Bensin,1500,Abu-abu,Jakarta,1,Lengkap,Tidak,Ya,Ya,70.3,64.3,54.6
+MB20100843,Toyota,Fortuner,SUV,2010,163276,AT,Bensin,2711,Coklat,Depok,1,Lengkap,Tidak,Ya,Tidak,159.7,126.5,49.1
+MB20130844,Suzuki,Ertiga,MPV,2013,163717,MT,Bensin,1471,Merah,Depok,2,Lengkap,Tidak,Tidak,Ya,75.3,79.4,57.5
+MB20220845,Toyota,Rush,SUV,2022,47954,MT,Bensin,1500,Coklat,Bogor,4,Sebagian,Tidak,Ya,Tidak,211.4,168.9,73.1
+MB20140846,Toyota,Agya,City Car,2014,50235,MT,Bensin,1003,Putih,Surabaya,1,Lengkap,Tidak,Ya,Ya,57.2,43.4,67.6
+MB20170847,Toyota,Agya,City Car,2017,69384,MT,Bensin,1164,Merah,Jakarta,3,Tidak Ada,Tidak,Tidak,Ya,77.2,67.1,76.5
+MB20230848,Honda,Jazz,Hatchback,2023,27825,AT,Bensin,1500,Kuning,Denpasar,1,Lengkap,Tidak,Tidak,Ya,173.4,286.3,49.4
+MB20100849,Honda,Brio,City Car,2010,318156,AT,Bensin,1200,Kuning,Bandung,1,Lengkap,Tidak,Tidak,Ya,50.0,36.6,52.9
+MB20140850,Honda,Jazz,Hatchback,2014,170140,AT,Bensin,1500,Abu-abu,Semarang,2,Sebagian,Tidak,Ya,Ya,80.4,85.0,49.8
+MB20220851,Daihatsu,Xenia,MPV,2022,58221,MT,Bensin,1436,Coklat,Jakarta,1,Lengkap,Tidak,Tidak,Ya,159.6,145.9,96.5
+MB20140852,Honda,Jazz,Hatchback,2014,168724,MT,Bensin,1500,Coklat,Bandung,1,Tidak Ada,Ya,Tidak,Tidak,76.0,68.3,41.3
+MB20130853,Daihatsu,Ayla,City Car,2013,148617,MT,Bensin,1098,Abu-abu,Bandung,5,Sebagian,Tidak,Tidak,Ya,50.0,39.0,63.1
+MB20170854,Toyota,Rush,SUV,2017,86876,AT,Bensin,1500,Silver,Bogor,5,Tidak Ada,Tidak,Ya,Ya,81.4,101.5,17.8
+MB20120855,Mitsubishi,Pajero Sport,SUV,2012,126682,AT,Diesel,2400,Merah,Medan,2,Tidak Ada,Tidak,Tidak,Tidak,170.9,182.4,47.7
+MB20130856,Toyota,Rush,SUV,2013,88348,AT,Bensin,1500,Putih,Jakarta,3,Lengkap,Tidak,Tidak,Ya,93.5,89.2,68.5
+MB20190857,Honda,Brio,City Car,2019,111462,MT,Bensin,1200,Silver,Bekasi,2,Tidak Ada,Tidak,Tidak,Tidak,117.2,102.0,85.0
+MB20120858,Daihatsu,Terios,SUV,2012,142594,MT,Bensin,1500,Kuning,Bogor,2,Tidak Ada,Tidak,Ya,Ya,64.8,70.9,33.2
+MB20240859,Honda,Jazz,Hatchback,2024,21609,MT,Bensin,1500,Hitam,Bekasi,3,Lengkap,Tidak,Tidak,Ya,327.1,256.7,106.4
+MB20110860,Honda,HR-V,SUV,2011,87454,AT,Bensin,1705,Abu-abu,Bandung,2,Sebagian,Tidak,Tidak,Tidak,87.0,100.5,53.1
+MB20200861,Toyota,Agya,City Car,2020,44655,AT,Bensin,1079,Biru,Tangerang,2,Lengkap,Tidak,Tidak,Ya,116.6,112.2,94.7
+MB20140862,Suzuki,Ertiga,MPV,2014,144186,MT,Bensin,1444,Biru,Bogor,2,Tidak Ada,Tidak,Tidak,Ya,91.8,97.1,56.8
+MB20240863,Honda,HR-V,SUV,2024,21826,CVT,Bensin,1529,Hitam,Bandung,3,Lengkap,Tidak,Tidak,Ya,233.7,291.7,67.3
+MB20170864,Toyota,Innova,MPV,2017,93085,AT,Diesel,2259,Putih,Denpasar,2,Sebagian,Ya,Ya,Ya,185.1,183.1,39.7
+MB20180865,Honda,Jazz,Hatchback,2018,125637,MT,Bensin,1500,Merah,Semarang,2,Sebagian,Tidak,Tidak,Ya,172.9,149.9,86.7
+MB20210866,Toyota,Innova,MPV,2021,4259,MT,Diesel,2072,Merah,Depok,2,Lengkap,Tidak,Tidak,Ya,281.5,377.6,58.4
+MB20120867,Suzuki,Ertiga,MPV,2012,120167,AT,Bensin,1460,Merah,Semarang,1,Lengkap,Tidak,Ya,Ya,58.9,78.7,17.4
+MB20130868,Daihatsu,Ayla,City Car,2013,91778,AT,Bensin,1079,Putih,Bandung,3,Lengkap,Tidak,Tidak,Ya,50.0,51.0,74.9
+MB20230869,Toyota,Fortuner,SUV,2023,37144,AT,Bensin,2660,Hitam,Semarang,2,Sebagian,Tidak,Tidak,Ya,724.3,611.6,105.2
+MB20110870,Honda,Brio,City Car,2011,92905,AT,Bensin,1200,Coklat,Surabaya,1,Lengkap,Tidak,Tidak,Ya,59.6,57.0,78.6
+MB20100871,Mitsubishi,Xpander,MPV,2010,197381,MT,Bensin,1500,Silver,Depok,1,Sebagian,Tidak,Tidak,Tidak,50.0,64.1,24.4
+MB20130872,Honda,Jazz,Hatchback,2013,173275,MT,Bensin,1500,Hitam,Bandung,2,Sebagian,Tidak,Tidak,Ya,91.2,91.0,69.3
+MB20230873,Mitsubishi,Xpander,MPV,2023,51653,AT,Bensin,1500,Merah,Jakarta,3,Sebagian,Tidak,Tidak,Ya,263.2,231.3,95.9
+MB20120874,Mitsubishi,Pajero Sport,SUV,2012,193615,AT,Diesel,2400,Merah,Depok,3,Tidak Ada,Tidak,Tidak,Ya,290.5,190.1,59.8
+MB20110875,Mitsubishi,Xpander,MPV,2011,93116,AT,Bensin,1500,Kuning,Medan,3,Lengkap,Tidak,Tidak,Ya,107.5,84.7,72.0
+MB20240876,Daihatsu,Ayla,City Car,2024,5135,MT,Bensin,1040,Putih,Yogyakarta,1,Lengkap,Tidak,Tidak,Ya,168.1,165.4,108.7
+MB20240877,Mitsubishi,Xpander,MPV,2024,6344,MT,Bensin,1500,Merah,Semarang,3,Sebagian,Tidak,Tidak,Ya,299.1,258.8,97.0
+MB20150878,Honda,Jazz,Hatchback,2015,287488,AT,Bensin,1500,Kuning,Denpasar,1,Lengkap,Tidak,Ya,Ya,99.9,86.1,53.8
+MB20150879,Toyota,Innova,MPV,2015,189892,AT,Bensin,2131,Coklat,Makassar,1,Tidak Ada,Tidak,Tidak,Ya,142.3,187.9,26.4
+MB20190880,Toyota,Rush,SUV,2019,55706,AT,Bensin,1500,Putih,Bogor,1,Tidak Ada,Tidak,Tidak,Ya,215.8,181.9,87.5
+MB20230881,Toyota,Agya,City Car,2023,26862,AT,Bensin,1150,Biru,Yogyakarta,4,Sebagian,Tidak,Tidak,Ya,166.0,137.3,96.4
+MB20150882,Daihatsu,Ayla,City Car,2015,144294,MT,Bensin,1100,Abu-abu,Bekasi,1,Sebagian,Tidak,Tidak,Ya,50.0,54.0,63.9
+MB20150883,Daihatsu,Ayla,City Car,2015,180358,MT,Bensin,1101,Abu-abu,Bekasi,5,Lengkap,Tidak,Tidak,Ya,51.4,49.5,70.3
+MB20150884,Daihatsu,Terios,SUV,2015,238993,MT,Bensin,1500,Silver,Makassar,3,Lengkap,Tidak,Tidak,Ya,132.9,114.5,72.6
+MB20120885,Toyota,Agya,City Car,2012,229570,AT,Bensin,1080,Kuning,Makassar,1,Sebagian,Tidak,Tidak,Ya,50.0,41.2,68.6
+MB20100886,Honda,Brio,City Car,2010,339119,MT,Bensin,1200,Putih,Medan,2,Sebagian,Tidak,Tidak,Ya,50.0,36.4,44.8
+MB20140887,Daihatsu,Terios,SUV,2014,113168,MT,Bensin,1500,Kuning,Tangerang,2,Sebagian,Tidak,Tidak,Ya,80.9,100.3,42.5
+MB20210888,Mitsubishi,Pajero Sport,SUV,2021,79424,AT,Diesel,2400,Merah,Medan,1,Lengkap,Tidak,Tidak,Ya,665.7,514.1,100.4
+MB20160889,Toyota,Innova,MPV,2016,250109,AT,Diesel,2303,Putih,Surabaya,3,Sebagian,Tidak,Ya,Ya,204.9,175.6,50.1
+MB20130890,Toyota,Avanza,MPV,2013,232327,AT,Bensin,1360,Coklat,Bekasi,2,Sebagian,Tidak,Tidak,Ya,84.3,80.8,65.3
+MB20220891,Honda,Brio,City Car,2022,45145,AT,Bensin,1200,Abu-abu,Makassar,1,Sebagian,Tidak,Tidak,Ya,170.6,167.6,97.1
+MB20200892,Mitsubishi,Pajero Sport,SUV,2020,103198,AT,Diesel,2400,Hitam,Denpasar,3,Tidak Ada,Tidak,Tidak,Ya,424.7,418.7,78.0
+MB20220893,Daihatsu,Xenia,MPV,2022,36325,MT,Bensin,1441,Merah,Denpasar,3,Lengkap,Tidak,Ya,Ya,114.7,135.6,54.6
+MB20230894,Toyota,Fortuner,SUV,2023,18766,AT,Diesel,2524,Coklat,Depok,1,Lengkap,Tidak,Tidak,Ya,689.4,668.3,105.7
+MB20110895,Daihatsu,Ayla,City Car,2011,96433,AT,Bensin,1109,Abu-abu,Denpasar,2,Sebagian,Tidak,Ya,Ya,50.0,35.8,56.7
+MB20180896,Daihatsu,Xenia,MPV,2018,92095,MT,Bensin,1326,Hitam,Yogyakarta,3,Tidak Ada,Tidak,Tidak,Ya,137.8,110.3,83.2
+MB20240897,Toyota,Innova,MPV,2024,8022,MT,Diesel,2267,Merah,Semarang,3,Sebagian,Tidak,Tidak,Ya,495.9,435.2,101.6
+MB20180898,Honda,Brio,City Car,2018,108672,AT,Bensin,1200,Putih,Medan,1,Tidak Ada,Tidak,Tidak,Ya,120.7,94.4,82.3
+MB20120899,Honda,Jazz,Hatchback,2012,210176,AT,Bensin,1500,Biru,Medan,1,Lengkap,Tidak,Ya,Ya,75.9,66.3,48.1
+MB20170900,Honda,Jazz,Hatchback,2017,56301,AT,Bensin,1500,Biru,Medan,3,Sebagian,Tidak,Tidak,Ya,139.1,130.1,81.2
+MB20130901,Toyota,Avanza,MPV,2013,177499,MT,Bensin,1305,Silver,Tangerang,3,Lengkap,Tidak,Ya,Ya,56.2,64.6,32.5
+MB20160902,Daihatsu,Ayla,City Car,2016,188528,MT,Bensin,1082,Coklat,Surabaya,2,Sebagian,Tidak,Tidak,Ya,69.3,64.0,76.1
+MB20140903,Toyota,Fortuner,SUV,2014,119607,AT,Diesel,2790,Kuning,Makassar,5,Lengkap,Tidak,Tidak,Ya,272.5,253.9,73.6
+MB20100904,Honda,Brio,City Car,2010,331123,AT,Bensin,1200,Silver,Medan,3,Lengkap,Tidak,Tidak,Tidak,50.0,36.6,46.9
+MB20170905,Suzuki,Ertiga,MPV,2017,127344,AT,Bensin,1481,Abu-abu,Bogor,4,Tidak Ada,Tidak,Ya,Ya,118.5,99.8,54.9
+MB20220906,Toyota,Agya,City Car,2022,44427,MT,Bensin,1108,Kuning,Tangerang,3,Sebagian,Tidak,Tidak,Tidak,102.7,115.0,77.5
+MB20230907,Daihatsu,Terios,SUV,2023,24858,AT,Bensin,1500,Silver,Jakarta,2,Lengkap,Tidak,Tidak,Tidak,251.2,266.6,94.8
+MB20150908,Toyota,Avanza,MPV,2015,77979,MT,Bensin,1356,Putih,Depok,3,Lengkap,Tidak,Tidak,Ya,82.8,91.5,60.2
+MB20130909,Mitsubishi,Pajero Sport,SUV,2013,221686,AT,Diesel,2400,Biru,Bekasi,2,Sebagian,Tidak,Ya,Tidak,183.3,193.3,38.8
+MB20120910,Toyota,Fortuner,SUV,2012,156715,AT,Diesel,2781,Biru,Medan,1,Tidak Ada,Tidak,Tidak,Ya,268.9,200.1,61.0
+MB20210911,Suzuki,Ertiga,MPV,2021,76959,MT,Bensin,1475,Coklat,Medan,1,Lengkap,Tidak,Tidak,Tidak,226.0,171.1,100.9
+MB20110912,Honda,HR-V,SUV,2011,110949,CVT,Bensin,1754,Silver,Denpasar,3,Sebagian,Tidak,Tidak,Tidak,95.4,96.4,61.1
+MB20150913,Toyota,Fortuner,SUV,2015,65627,AT,Diesel,2540,Merah,Yogyakarta,2,Tidak Ada,Tidak,Tidak,Tidak,225.4,226.2,66.8
+MB20200914,Honda,Brio,City Car,2020,71723,AT,Bensin,1200,Coklat,Depok,5,Sebagian,Tidak,Ya,Tidak,104.1,92.0,67.6
+MB20200915,Daihatsu,Xenia,MPV,2020,107688,AT,Bensin,1304,Silver,Makassar,1,Sebagian,Tidak,Tidak,Ya,104.5,143.7,42.4
+MB20140916,Honda,Brio,City Car,2014,259705,AT,Bensin,1200,Merah,Makassar,2,Lengkap,Tidak,Tidak,Ya,73.1,54.9,63.5
+MB20180917,Suzuki,Ertiga,MPV,2018,118144,AT,Bensin,1436,Silver,Denpasar,3,Sebagian,Tidak,Ya,Ya,138.1,121.2,64.6
+MB20160918,Toyota,Agya,City Car,2016,127999,AT,Bensin,1072,Putih,Bandung,1,Tidak Ada,Tidak,Tidak,Ya,62.2,58.1,68.3
+MB20240919,Toyota,Avanza,MPV,2024,17481,AT,Bensin,1473,Abu-abu,Jakarta,3,Lengkap,Tidak,Tidak,Ya,224.1,191.9,100.3
+MB20110920,Mitsubishi,Pajero Sport,SUV,2011,237691,AT,Diesel,2400,Coklat,Denpasar,2,Lengkap,Tidak,Tidak,Ya,192.5,185.1,54.5
+MB20140921,Daihatsu,Xenia,MPV,2014,162844,MT,Bensin,1403,Kuning,Makassar,1,Sebagian,Tidak,Tidak,Ya,79.7,72.1,66.7
+MB20170922,Honda,Jazz,Hatchback,2017,83184,AT,Bensin,1500,Biru,Denpasar,2,Sebagian,Tidak,Tidak,Ya,162.4,137.9,83.3
+MB20240923,Honda,HR-V,SUV,2024,24573,AT,Bensin,1681,Abu-abu,Surabaya,2,Sebagian,Tidak,Tidak,Tidak,334.3,348.9,100.1
+MB20240924,Daihatsu,Ayla,City Car,2024,14459,MT,Bensin,1007,Hitam,Bekasi,1,Lengkap,Tidak,Tidak,Ya,157.6,166.2,101.1
+MB20180925,Honda,HR-V,SUV,2018,88490,CVT,Bensin,1756,Merah,Bandung,4,Sebagian,Tidak,Tidak,Ya,203.0,192.8,83.0
+MB20110926,Honda,Jazz,Hatchback,2011,259668,MT,Bensin,1500,Coklat,Tangerang,4,Lengkap,Tidak,Tidak,Ya,63.9,63.3,52.1
+MB20210927,Honda,Jazz,Hatchback,2021,82691,AT,Bensin,1500,Coklat,Yogyakarta,2,Lengkap,Tidak,Tidak,Tidak,180.5,182.9,91.5
+MB20130928,Toyota,Fortuner,SUV,2013,88576,AT,Diesel,2442,Hitam,Jakarta,2,Sebagian,Tidak,Tidak,Ya,307.8,233.6,70.8
+MB20210929,Toyota,Agya,City Car,2021,60714,AT,Bensin,1027,Merah,Makassar,1,Sebagian,Tidak,Tidak,Ya,92.7,109.4,71.7
+MB20160930,Toyota,Innova,MPV,2016,56092,MT,Diesel,2188,Coklat,Depok,1,Lengkap,Ya,Tidak,Ya,229.5,188.6,65.3
+MB20110931,Toyota,Avanza,MPV,2011,84892,AT,Bensin,1358,Hitam,Bogor,4,Sebagian,Tidak,Tidak,Ya,87.8,58.7,63.5
+MB20170932,Toyota,Innova,MPV,2017,159158,AT,Diesel,2384,Merah,Jakarta,2,Lengkap,Tidak,Ya,Ya,276.0,195.0,64.0
+MB20210933,Toyota,Fortuner,SUV,2021,79093,AT,Bensin,2743,Biru,Yogyakarta,4,Lengkap,Tidak,Tidak,Ya,413.3,429.2,83.8
+MB20180934,Daihatsu,Ayla,City Car,2018,164956,MT,Bensin,1041,Coklat,Bekasi,1,Sebagian,Tidak,Ya,Ya,85.4,66.0,67.9
+MB20220935,Toyota,Rush,SUV,2022,25931,AT,Bensin,1500,Biru,Bogor,2,Lengkap,Tidak,Ya,Ya,274.2,222.6,88.6
+MB20230936,Daihatsu,Xenia,MPV,2023,26216,AT,Bensin,1497,Coklat,Surabaya,1,Lengkap,Tidak,Tidak,Ya,211.8,197.5,105.9
+MB20170937,Suzuki,Ertiga,MPV,2017,60747,MT,Bensin,1475,Putih,Yogyakarta,4,Tidak Ada,Tidak,Tidak,Ya,164.4,122.2,77.2
+MB20120938,Suzuki,Ertiga,MPV,2012,97293,AT,Bensin,1423,Hitam,Bandung,2,Sebagian,Tidak,Tidak,Ya,59.1,91.5,8.1
+MB20170939,Daihatsu,Terios,SUV,2017,87982,AT,Bensin,1500,Hitam,Makassar,2,Sebagian,Tidak,Ya,Tidak,120.6,120.7,64.8
+MB20170940,Suzuki,Ertiga,MPV,2017,111495,AT,Bensin,1479,Silver,Semarang,5,Sebagian,Tidak,Tidak,Tidak,120.7,113.1,71.7
+MB20100941,Mitsubishi,Pajero Sport,SUV,2010,181442,AT,Diesel,2400,Hitam,Surabaya,5,Lengkap,Ya,Tidak,Ya,183.6,141.0,38.1
+MB20180942,Honda,HR-V,SUV,2018,103239,AT,Bensin,1695,Merah,Tangerang,2,Sebagian,Tidak,Ya,Ya,161.5,176.1,55.0
+MB20200943,Daihatsu,Terios,SUV,2020,83253,AT,Bensin,1500,Silver,Surabaya,3,Lengkap,Tidak,Tidak,Ya,215.9,187.7,91.0
+MB20220944,Honda,HR-V,SUV,2022,37415,AT,Bensin,1617,Merah,Surabaya,2,Lengkap,Tidak,Tidak,Ya,263.0,315.1,80.1
+MB20180945,Toyota,Innova,MPV,2018,30081,AT,Bensin,2317,Merah,Denpasar,1,Lengkap,Tidak,Tidak,Ya,339.2,292.8,95.9
+MB20150946,Daihatsu,Xenia,MPV,2015,54949,AT,Bensin,1453,Hitam,Bandung,1,Sebagian,Tidak,Tidak,Ya,129.9,103.7,84.6
+MB20180947,Toyota,Agya,City Car,2018,2000,MT,Bensin,1161,Abu-abu,Semarang,1,Sebagian,Ya,Ya,Ya,71.1,60.5,54.4
+MB20190948,Daihatsu,Terios,SUV,2019,116439,AT,Bensin,1500,Kuning,Bekasi,1,Sebagian,Tidak,Tidak,Ya,153.5,161.8,78.0
+MB20180949,Toyota,Agya,City Car,2018,76592,MT,Bensin,1060,Putih,Bogor,1,Tidak Ada,Tidak,Tidak,Ya,93.9,80.6,83.3
+MB20200950,Daihatsu,Ayla,City Car,2020,90054,MT,Bensin,1048,Abu-abu,Bekasi,2,Tidak Ada,Tidak,Tidak,Ya,93.4,88.8,87.3
+MB20140951,Toyota,Fortuner,SUV,2014,106232,AT,Bensin,2648,Putih,Surabaya,1,Sebagian,Tidak,Tidak,Ya,285.2,226.0,73.5
+MB20140952,Mitsubishi,Pajero Sport,SUV,2014,173990,AT,Diesel,2400,Putih,Depok,4,Tidak Ada,Tidak,Tidak,Ya,302.7,235.4,60.8
+MB20100953,Suzuki,Ertiga,MPV,2010,134015,AT,Bensin,1495,Kuning,Semarang,2,Sebagian,Ya,Tidak,Ya,60.0,50.3,34.0
+MB20130954,Toyota,Agya,City Car,2013,168651,MT,Bensin,1181,Kuning,Bekasi,1,Lengkap,Tidak,Tidak,Ya,55.0,42.2,75.8
+MB20200955,Honda,Brio,City Car,2020,76542,AT,Bensin,1200,Kuning,Depok,2,Lengkap,Tidak,Tidak,Ya,183.0,130.3,97.1
+MB20170956,Mitsubishi,Pajero Sport,SUV,2017,116186,AT,Diesel,2400,Putih,Surabaya,2,Sebagian,Tidak,Tidak,Tidak,415.2,333.1,81.6
+MB20180957,Daihatsu,Ayla,City Car,2018,150544,MT,Bensin,1170,Silver,Yogyakarta,1,Lengkap,Tidak,Tidak,Ya,73.5,75.7,80.0
+MB20100958,Honda,Jazz,Hatchback,2010,248556,AT,Bensin,1500,Coklat,Makassar,4,Sebagian,Ya,Tidak,Ya,50.7,47.0,23.1
+MB20210959,Toyota,Rush,SUV,2021,58383,MT,Bensin,1500,Coklat,Medan,4,Lengkap,Tidak,Tidak,Tidak,213.2,161.1,89.9
+MB20150960,Honda,Jazz,Hatchback,2015,202664,AT,Bensin,1500,Abu-abu,Jakarta,1,Sebagian,Tidak,Tidak,Ya,123.4,103.9,71.9
+MB20220961,Toyota,Rush,SUV,2022,34830,AT,Bensin,1500,Putih,Tangerang,4,Sebagian,Tidak,Tidak,Ya,265.1,233.0,92.5
+MB20200962,Toyota,Agya,City Car,2020,123576,MT,Bensin,1104,Kuning,Bandung,3,Lengkap,Tidak,Tidak,Ya,74.5,90.4,59.5
+MB20140963,Toyota,Innova,MPV,2014,111648,MT,Diesel,2372,Abu-abu,Semarang,4,Lengkap,Tidak,Tidak,Ya,137.2,183.3,30.0
+MB20100964,Honda,Jazz,Hatchback,2010,120308,AT,Bensin,1500,Abu-abu,Medan,2,Sebagian,Tidak,Tidak,Ya,50.0,60.5,31.7
+MB20150965,Suzuki,Ertiga,MPV,2015,149839,MT,Bensin,1458,Putih,Bandung,5,Lengkap,Tidak,Tidak,Ya,138.7,99.2,72.7
+MB20150966,Honda,Brio,City Car,2015,125124,AT,Bensin,1200,Silver,Surabaya,2,Sebagian,Tidak,Tidak,Ya,74.2,71.0,68.4
+MB20190967,Suzuki,Ertiga,MPV,2019,86222,MT,Bensin,1435,Biru,Depok,2,Lengkap,Tidak,Tidak,Tidak,171.7,149.4,96.0
+MB20220968,Honda,Jazz,Hatchback,2022,25881,MT,Bensin,1500,Hitam,Yogyakarta,1,Tidak Ada,Tidak,Tidak,Ya,201.6,208.7,89.1
+MB20210969,Honda,HR-V,SUV,2021,46802,CVT,Bensin,1627,Biru,Surabaya,1,Sebagian,Tidak,Tidak,Ya,344.9,302.9,96.9
+MB20220970,Honda,Jazz,Hatchback,2022,32380,MT,Bensin,1500,Hitam,Yogyakarta,3,Lengkap,Tidak,Tidak,Ya,188.2,227.5,71.8
+MB20160971,Daihatsu,Xenia,MPV,2016,212307,AT,Bensin,1415,Merah,Bogor,3,Sebagian,Tidak,Tidak,Ya,95.4,82.8,67.9
+MB20200972,Mitsubishi,Xpander,MPV,2020,109299,MT,Bensin,1500,Kuning,Makassar,3,Sebagian,Tidak,Tidak,Ya,185.2,155.6,85.5
+MB20210973,Suzuki,Ertiga,MPV,2021,41951,AT,Bensin,1488,Hitam,Surabaya,2,Sebagian,Tidak,Tidak,Tidak,224.7,195.9,94.9
+MB20130974,Mitsubishi,Xpander,MPV,2013,138280,MT,Bensin,1500,Silver,Bandung,2,Lengkap,Tidak,Tidak,Ya,89.2,89.5,65.6
+MB20190975,Toyota,Fortuner,SUV,2019,53051,AT,Diesel,2642,Abu-abu,Makassar,2,Sebagian,Tidak,Tidak,Ya,358.1,474.5,53.1
+MB20160976,Toyota,Avanza,MPV,2016,102844,AT,Bensin,1311,Coklat,Medan,2,Sebagian,Tidak,Tidak,Ya,79.7,122.8,21.5
+MB20150977,Toyota,Avanza,MPV,2015,173045,MT,Bensin,1358,Merah,Bekasi,4,Sebagian,Tidak,Ya,Ya,65.0,79.4,27.1
+MB20130978,Honda,HR-V,SUV,2013,180095,CVT,Bensin,1625,Biru,Makassar,3,Sebagian,Ya,Tidak,Ya,82.3,79.3,31.9
+MB20100979,Toyota,Innova,MPV,2010,225234,MT,Bensin,2051,Biru,Semarang,3,Lengkap,Tidak,Tidak,Ya,130.5,116.9,57.1
+MB20240980,Toyota,Rush,SUV,2024,14746,MT,Bensin,1500,Merah,Bandung,2,Sebagian,Tidak,Tidak,Ya,323.6,273.6,104.2
+MB20140981,Honda,Brio,City Car,2014,201278,AT,Bensin,1200,Kuning,Bogor,2,Lengkap,Tidak,Tidak,Tidak,50.0,53.7,54.3
+MB20150982,Honda,HR-V,SUV,2015,133278,CVT,Bensin,1533,Putih,Bogor,3,Lengkap,Tidak,Tidak,Ya,180.8,154.8,81.2
+MB20100983,Daihatsu,Terios,SUV,2010,278054,AT,Bensin,1500,Coklat,Jakarta,3,Lengkap,Tidak,Tidak,Tidak,61.2,71.4,35.8
+MB20110984,Mitsubishi,Pajero Sport,SUV,2011,177037,AT,Diesel,2400,Putih,Surabaya,2,Lengkap,Tidak,Tidak,Tidak,269.1,196.8,68.9
+MB20210985,Honda,Jazz,Hatchback,2021,48839,MT,Bensin,1500,Putih,Medan,2,Sebagian,Tidak,Tidak,Ya,256.6,201.7,96.1
+MB20120986,Suzuki,Ertiga,MPV,2012,160650,AT,Bensin,1421,Biru,Semarang,2,Lengkap,Tidak,Tidak,Ya,68.5,77.8,45.8
+MB20130987,Mitsubishi,Xpander,MPV,2013,158945,AT,Bensin,1500,Merah,Denpasar,2,Sebagian,Tidak,Tidak,Ya,113.5,91.6,64.2
+MB20170988,Daihatsu,Ayla,City Car,2017,186146,AT,Bensin,1036,Merah,Denpasar,4,Sebagian,Tidak,Ya,Ya,50.0,47.2,48.1
+MB20100989,Suzuki,Ertiga,MPV,2010,147898,MT,Bensin,1418,Biru,Surabaya,2,Lengkap,Tidak,Ya,Ya,55.1,58.2,36.9
+MB20110990,Toyota,Innova,MPV,2011,45252,AT,Diesel,2117,Silver,Bandung,2,Sebagian,Tidak,Tidak,Ya,183.2,147.3,74.0
+MB20210991,Daihatsu,Terios,SUV,2021,48037,MT,Bensin,1500,Abu-abu,Tangerang,2,Lengkap,Tidak,Tidak,Ya,237.8,220.5,102.3
+MB20220992,Toyota,Avanza,MPV,2022,55531,AT,Bensin,1367,Kuning,Bandung,2,Lengkap,Tidak,Tidak,Ya,214.3,186.7,100.0
+MB20240993,Toyota,Rush,SUV,2024,14221,AT,Bensin,1500,Kuning,Makassar,1,Lengkap,Tidak,Tidak,Ya,258.6,318.4,84.9
+MB20170994,Honda,Jazz,Hatchback,2017,46821,MT,Bensin,1500,Putih,Jakarta,4,Lengkap,Tidak,Tidak,Tidak,133.3,127.7,88.0
+MB20180995,Daihatsu,Xenia,MPV,2018,128714,AT,Bensin,1468,Kuning,Jakarta,2,Sebagian,Tidak,Tidak,Ya,112.4,114.6,76.5
+MB20160996,Honda,Jazz,Hatchback,2016,31546,MT,Bensin,1500,Silver,Surabaya,2,Lengkap,Tidak,Tidak,Ya,126.3,129.5,83.1
+MB20170997,Mitsubishi,Pajero Sport,SUV,2017,84126,AT,Diesel,2400,Merah,Semarang,3,Sebagian,Tidak,Ya,Ya,352.2,329.2,69.0
+MB20240998,Toyota,Rush,SUV,2024,16661,AT,Bensin,1500,Abu-abu,Surabaya,2,Lengkap,Tidak,Tidak,Ya,331.7,332.6,109.6
+MB20110999,Daihatsu,Xenia,MPV,2011,154020,MT,Bensin,1329,Putih,Bekasi,2,Tidak Ada,Tidak,Tidak,Ya,88.5,60.0,67.8
+MB20151000,Toyota,Innova,MPV,2015,194848,MT,Diesel,2391,Abu-abu,Makassar,2,Tidak Ada,Tidak,Tidak,Ya,154.4,173.5,47.1
