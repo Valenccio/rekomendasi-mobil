@@ -1,0 +1,14 @@
+# Model ML (besar)
+*.pkl
+*.joblib
+
+# Cache python
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# Environment
+.env
+venv/
